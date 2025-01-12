@@ -1,0 +1,488 @@
+---
+title: "STAT151 Project Final Code"
+author: "J. Sharadin, P.Shen, M. Vashel"
+output: pdf_document
+date: "2024-12-09"
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## Load Libraries
+
+```{r}
+library(lme4)
+library(sandwich)
+library(lmtest)
+library(dplyr)
+library(ggplot2)
+library(clubSandwich)
+library(stargazer)
+library(corrplot)
+```
+
+## Load Teaching Evaluation Data set
+
+```{r}
+replication <- read.csv("/Users/jakesharadin/Desktop/berkeley/2024_3_fall/stat_151/final_project/replication.csv")
+
+str(replication)
+summary(replication)
+```
+
+## Project steps:
+
+1.  Form hypothesis
+2.  EDA
+3.  Data Cleaning
+4.  Feature selection
+5.  Assumptions and Limitations
+6.  Conclusion
+
+## Question
+
+Do professors receive better evaluations when they give better grades?
+
+## 1. Form Hypothesis
+
+Professors will receive better evaluations when they give better grades.
+
+## 2. EDA
+
+### **Data Source**
+
+-   The dataset is sourced from the [Harvard
+    Dataverse](https://dataverse.harvard.edu/api/datasets/export?exporter=html&persistentId=doi%3A10.7910/DVN/SFPH9G#2.0).
+
+The dataset includes three study groups:
+
+1.  **Control Group (Group 1)**:
+
+    -   Students received the standard teaching evaluation prompt.
+
+    -   The evaluation consisted of three qualitative prompts about the
+        course and three about the instructor.
+
+    -   Evaluations were conducted during the usual end-of-semester
+        period.
+
+2.  **Treatment Groups**:
+
+    -   **Group 2**:
+
+        -   Students received an alternate teaching evaluation prompt.
+
+        -   Evaluations were conducted at the end of the semester,
+            similar to Group 1.
+
+        -   Grades were withheld for two extra weeks if students failed
+            to complete their evaluations.
+
+    -   **Group 3**:
+
+        -   Students received an alternate prompt.
+
+        -   Evaluations were conducted during the second and third weeks
+            of the following semester.
+
+        -   Unlike Groups 1 and 2, no external incentive (e.g.,
+            withholding grades) was used to encourage participation.
+
+### **Key Measures**
+
+1.  **Specificity**: Measures how specific and detailed the feedback is,
+    as opposed to being general or vague.
+
+2.  **Constructiveness**: Assesses the extent to which feedback provides
+    actionable guidance for improving teaching.
+
+3.  **Positivity**: Evaluates how positive or negative the student’s
+    feedback is.
+
+-   These metrics are **averages** of the three scores on each
+    evaluation.
+
+### **Key Variables**
+
+1.  **Relgrade**:
+
+    -   Defined as the ratio of the course grade to the term GPA for
+        each student.
+
+    -   Indicates how well a student performed in the specific course
+        compared to their overall GPA.
+
+    -   Reflects a student’s subjective experience in the course.
+
+2.  **Facultygrades**:
+
+    -   Defined as the average grade given by the professor across all
+        students, relative to their term GPA.
+
+    -   Serves as an indicator of the professor’s grading leniency or
+        strictness.
+
+```{r}
+# Initial cleaning
+replication_clean <- na.omit(replication) 
+
+# Visualizations
+ggplot(replication, aes(x = facultygrades, y = positivity)) +
+  geom_density_2d_filled() +
+  labs(title = "Faculty Grades vs Positivity", 
+       x = "Faculty Grades", 
+       y = "Positivity")
+
+ggplot(replication, aes(x = facultygrades)) +
+  geom_histogram(binwidth = 0.05, fill = "blue", color = "black") +
+  labs(title = "Distribution of Faculty Grades", x = "Faculty Grades", y = "Frequency")
+
+ggplot(replication, aes(x = positivity)) +
+  geom_histogram(binwidth = 0.5, fill = "green", color = "black") +
+  labs(title = "Distribution of Positivity", x = "Positivity", y = "Frequency")
+
+# Create "studygroup2" and "studygroup3" variables
+replication$studygroup2 <- ifelse(replication$studygroup == 2, 1, 0)
+replication$studygroup3 <- ifelse(replication$studygroup == 3, 1, 0)
+
+# Setup for correlation matrix
+variables <- c("positivity", "facultygrades", "female", "femalefaculty",
+               "yrs_experience", "pellgrant", "whitestudent", "class_size",
+               "studygroup2", "studygroup3")
+
+filtered_data <- replication[, variables]
+
+# Generate the correlation matrix
+correlation_matrix <- cor(filtered_data, use = "complete.obs")
+corrplot(correlation_matrix, method = "circle",
+         tl.col = "black", tl.srt = 45, title = "Correlation Matrix")
+
+# Initial model - just facultygrades
+model_initial <- lm(positivity ~ facultygrades, data=replication)
+summary(model_initial)
+```
+
+## 3. Data Cleaning
+
+```{r}
+sum(is.na(replication))
+colSums(is.na(replication))
+```
+
+```{r}
+# Add variable for treatment groups
+replication$treated <- ifelse(replication$studygroup %in% c(2, 3), 1, 0)
+
+# Full model using lm
+model_full <- lm(positivity ~ facultygrades + treated + female + femalefaculty +
+            yrs_experience + pellgrant + whitestudent + class_size +
+            science + socsci + female:science + female:femalefaculty, 
+            data = replication)
+
+# Leverage Calculation
+
+# Calculate leverage values
+leverage_values <- hatvalues(model_full)
+
+# Number of predictors (p) and observations (n)
+p <- length(coef(model_full))
+n <- nrow(replication)
+
+# Calculate average leverage
+average_leverage <- p / n
+
+# Print leverage thresholds
+print(paste("Average leverage:", round(average_leverage, 3)))
+print(paste("Twice average leverage (rule of thumb):", round(average_leverage * 2, 3)))
+
+# Identify observations with leverage > 2 * average leverage
+threshold_leverage <- 2 * average_leverage
+high_leverage_obs <- which(leverage_values > threshold_leverage)
+
+# Print high-leverage observations
+print("High-leverage observations:")
+print(high_leverage_obs)
+
+# Infuence calculation
+
+# Calculate Cook's Distance
+cooks_distance <- cooks.distance(model_full)
+
+# Identify observations with Cook's Distance > 4/n
+threshold_cooks <- 4 / n
+high_influence_obs_cooks <- which(cooks_distance > threshold_cooks)
+
+# Print high Cook's Distance observations
+print("High-influence observations based on Cook's Distance:")
+print(high_influence_obs_cooks)
+
+# Combine all outlier observations
+all_high_influence <- unique(c(high_leverage_obs, high_influence_obs_cooks))
+
+# Print all outlier observations
+print("Combined high-leverage and high-influence observations:")
+print(all_high_influence)
+
+
+# Create a new dataset excluding high-influence observations
+evals <- replication[-all_high_influence, ]
+
+# Print summary of new dataset
+print("Number of observations in the cleaned dataset:")
+print(nrow(evals))
+```
+## 4. Feature selection
+
+#### **Relgrade vs Facultygrades**
+
+-   **Relgrade**: Measures whether a student gives more positive
+    feedback in a class they perform well in relative to their other
+    courses. This could capture subjective biases, such as a student’s
+    preference for the subject, rather than grading leniency.
+
+-   **Facultygrades**: Represents whether a professor is an easier
+    grader on average, reflecting their overall grading leniency. This
+    is the primary variable of interest to measure how grading practices
+    affect evaluations.
+
+**Conclusion**: Focus on **facultygrades** as the independent variable
+(IV), as it better aligns with the research question about grading
+leniency's effect on evaluations.
+
+```{r}
+# Small model - include some faculty chars only
+model2 <- lm(positivity ~ facultygrades + femalefaculty + yrs_experience, data=evals)
+summary(model2)
+
+# Small model - include some student chars only
+model3 <- lm(positivity ~ facultygrades + female + whitestudent + pellgrant, data=evals)
+summary(model3)
+
+# Medium model - include student, faculty, study group (but no interactions)
+model4 <- lm(positivity ~ facultygrades + treated + female + femalefaculty + yrs_experience + pellgrant + whitestudent + class_size, data=evals)
+summary(model4)
+
+# Full model using lmer
+model_full2 <- lmer(positivity ~ facultygrades + treated + female + femalefaculty +
+               yrs_experience + pellgrant + whitestudent + class_size +
+               science + socsci + female:science + female:femalefaculty + 
+               (1 | student_num), 
+               data = evals)
+summary(model_full2)
+
+# Extract dataset used in full model
+data_used <- model.frame(model_full2)
+
+# Re-add studygroup to data_used
+data_used$studygroup <- replication$studygroup[as.numeric(rownames(data_used))]
+
+# Recreate studygroup2 and studygroup3 in data_used
+data_used$studygroup2 <- ifelse(data_used$studygroup == 2, 1, 0)
+data_used$studygroup3 <- ifelse(data_used$studygroup == 3, 1, 0)
+
+# Refit reduced model using same data
+model_reduced <- lmer(positivity ~ female + femalefaculty + yrs_experience + pellgrant +
+                      whitestudent + class_size + studygroup2 + studygroup3 + 
+                      female * science + female * femalefaculty + (1 | student_num), 
+                      data = data_used)
+
+# Perform likelihood ratio test
+anova(model_reduced, model_full2)
+```
+
+```{r}
+# Calculate the confidence interval for all coefficients
+conf_intervals <- confint(model_full2, parm = "beta_", level = 0.99)
+
+# Print the confidence interval for the facultygrades coefficient
+conf_intervals["facultygrades", ]
+
+# Residual plot for homoskedasticity
+ggplot(data = data.frame(fitted = fitted(model_full2), residuals = residuals(model_full2)), 
+       aes(x = fitted, y = residuals)) +
+  geom_density_2d_filled() +
+  geom_hline(yintercept = 0, col = "red") +
+  labs(title = "Residuals vs Fitted", x = "Fitted Values", y = "Residuals")
+
+# Q-Q plot for normality of residuals
+qqnorm(residuals(model_full2))
+qqline(residuals(model_full2), col = "red")
+
+# Add residuals to the dataset
+data_used$residuals <- residuals(model_full2)
+
+# Residuals vs. predictor plot for linearity check
+ggplot(data_used, aes(x = facultygrades, y = residuals)) +
+  geom_density_2d_filled(alpha = 0.8) +
+  geom_hline(yintercept = 0, col = "red", linetype = "dashed") +
+  labs(
+    title = "Residuals vs Faculty Grades (2D Contour Plot)",
+    x = "Faculty Grades",
+    y = "Residuals"
+  ) +
+  theme_minimal()
+```
+
+```{r}
+# Model performance summaries using stargazer
+stargazer(
+  model_initial, model2, model4, model_full, model_full2,
+  type = "text",
+  title = "Linear Models Summary",
+  report = "vc*p",  
+  digits = 3
+)
+```
+
+Conclusion**: Focus on **facultygrades** as the independent variable
+(IV), as it better aligns with the research question about grading
+leniency's effect on evaluations.
+
+```{r}
+# Small model - include some faculty chars only
+model2 <- lm(positivity ~ facultygrades + femalefaculty + yrs_experience, data=evals)
+summary(model2)
+
+# Small model - include some student chars only
+model3 <- lm(positivity ~ facultygrades + female + whitestudent + pellgrant, data=evals)
+summary(model3)
+
+# Medium model - include student, faculty, study group (but no interactions)
+model4 <- lm(positivity ~ facultygrades + treated + female + femalefaculty + yrs_experience + pellgrant + whitestudent + class_size, data=evals)
+summary(model4)
+
+# Full model using lmer
+model_full2 <- lmer(positivity ~ facultygrades + treated + female + femalefaculty +
+               yrs_experience + pellgrant + whitestudent + class_size +
+               science + socsci + female:science + female:femalefaculty + 
+               (1 | student_num), 
+               data = evals)
+summary(model_full2)
+
+# Extract dataset used in full model
+data_used <- model.frame(model_full2)
+
+# Re-add studygroup to data_used
+data_used$studygroup <- replication$studygroup[rownames(data_used)]
+
+# Recreate studygroup2 and studygroup3 in data_used
+data_used$studygroup2 <- ifelse(data_used$studygroup == 2, 1, 0)
+data_used$studygroup3 <- ifelse(data_used$studygroup == 3, 1, 0)
+
+# Refit reduced model using same data
+model_reduced <- lmer(positivity ~ female + femalefaculty + yrs_experience + pellgrant +
+                      whitestudent + class_size + studygroup2 + studygroup3 + 
+                      female*science + female*femalefaculty + (1 | student_num), 
+                      data = data_used)
+
+# Perform likelihood ratio test
+anova(model_reduced, model_full2)
+```
+
+```{r}
+# Calculate the confidence interval for all coefficients
+conf_intervals <- confint(model_full2, parm = "beta_", level = 0.99)
+
+# Print the confidence interval for the facultygrades coefficient
+conf_intervals["facultygrades", ]
+
+# Residual plot for homoskedasticity
+ggplot(data = data.frame(fitted = fitted(model_full2), residuals = residuals(model_full2)), 
+       aes(x = fitted, y = residuals)) +
+  geom_density_2d_filled() +
+  geom_hline(yintercept = 0, col = "red") +
+  labs(title = "Residuals vs Fitted", x = "Fitted Values", y = "Residuals")
+
+# Q-Q plot for normality of residuals
+qqnorm(residuals(model_full2))
+qqline(residuals(model_full2), col = "red")
+
+# Add residuals to the dataset
+data_used$residuals <- residuals(model_full2)
+
+# Residuals vs. predictor plot for linearity check
+ggplot(data_used, aes(x = facultygrades, y = residuals)) +
+  geom_density_2d_filled(alpha = 0.8) +
+  geom_hline(yintercept = 0, col = "red", linetype = "dashed") +
+  labs(
+    title = "Residuals vs Faculty Grades (2D Contour Plot)",
+    x = "Faculty Grades",
+    y = "Residuals"
+  ) +
+  theme_minimal()
+```
+
+```{r}
+# Model performance summaries using stargazer
+stargazer(
+  model_initial, model2, model4, model_full, model_full2,
+  type = "text",
+  title = "Linear Models Summary",
+  report = "vc*p",  
+  digits = 3
+)
+```
+
+## **5. Assumptions and Limitations**
+
+1.  **Assumptions of Linear Regression**:
+
+    -   Normality: Assumes residuals are normally distributed.
+
+    -   Linearity: Assumes a linear relationship between predictors and
+        the dependent variable.
+
+    -   Homoskedasticity: Not met in this analysis, so robust standard
+        errors (using the sandwich estimator) were used to calculate
+        confidence intervals.
+
+2.  **Validity of Positivity**:
+
+    -   The "positivity" score in the dataset is assumed to accurately
+        reflect the overall positive evaluation of teachers by students.
+
+3.  **Unmeasured Confounders**:
+
+    -   The dataset does not account for other potential confounding
+        factors, such as the intrinsic interest or difficulty of the
+        class.
+
+    -   There is no objective measure of teaching quality, which could
+        be a confounder.
+
+4.  **Generalizability**:
+
+    -   Assumes the data are representative of other classes, students,
+        and schools, though this may not hold universally.
+
+5.  **Grade Perception**:
+
+    -   Students in Groups 1 and 2 may not know their final grades at
+        the time of evaluation, but it is assumed they have an accurate
+        impression of their grades.
+
+    -   Alternatively, evaluations may reflect students' perceptions of
+        grading practices rather than actual final grades.
+
+## **6. Conclusion**
+
+-   Faculty grading practices (or students' perceptions of these
+    practices) significantly influence teaching evaluations. Professors
+    who grade more leniently on average receive more positive
+    evaluations from students.
+
+### **Recommendations for Action**
+
+1.  **Administration Considerations**:
+
+    -   If teacher evaluations are used to assess faculty performance,
+        consider the potential bias introduced by grading practices.
+
+    -   Avoid creating incentives for faculty to grade leniently simply
+        to improve evaluations.
+
+2.  **Balanced Evaluation Metrics**:
+
+    -   Incorporate additional metrics into faculty assessments, such as
+        objective measures of student learning outcomes or peer reviews,
+        to provide a more comprehensive evaluation.
