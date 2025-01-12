@@ -1,0 +1,14 @@
+# Core libraries
+pandas
+numpy
+matplotlib
+seaborn
+pickle
+
+databento
+zstandard
+io
+
+datetime
+statsmodels
+scikit-learn
