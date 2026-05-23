@@ -28,6 +28,10 @@ Final project analyzing how university enrollment composition relates to interge
 Independent research applying **Instrumental Variables (2SLS / IV-GMM)** to estimate the causal effect of income inequality on county-level crime rates in the U.S., using historical (1860) slave-share data as an instrument.
 **Stack:** Python, statsmodels, linearmodels (IV2SLS, IVGMM), bootstrap reweighting.
 
+### [US Macroeconomic Indicators — SQL + Python](macro_indicators_sql)
+A compact SQL + Python project pulling eight FRED time series (UNRATE, CPI, FEDFUNDS, GDP, DGS10, INDPRO, PAYEMS, M2SL) into a SQLite database and analyzing them with joins, aggregations, and window functions (e.g. `LAG`-based CPI year-over-year inflation), with charts produced in Python.
+**Stack:** SQL (SQLite), Python, pandas, matplotlib, FRED data.
+
 ### [Easy Grader → Better Evaluation? A Multilevel Look at Teaching Evals](easy_grader_better_eval)
 Group project using **mixed-effects models with cluster-robust SEs** to assess whether instructor leniency drives student evaluation scores, replicating and extending a prior study.
 **Stack:** R, `lme4`, `sandwich`, `clubSandwich`, `lmtest`, `stargazer`.
