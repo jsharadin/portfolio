@@ -1,0 +1,10 @@
+pandas
+numpy
+statsmodels
+linearmodels
+scikit-learn
+seaborn
+matplotlib
+quantecon
+kagglehub
+jupyter
