@@ -1,4 +1,4 @@
-# 📝 Easy Grader → Better Evaluation?
+# Easy Grader → Better Evaluation?
 
 ## Overview
 

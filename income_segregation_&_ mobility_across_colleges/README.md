@@ -1,4 +1,4 @@
-# 🎓 Income Segregation & Mobility Across U.S. Colleges
+# Income Segregation & Mobility Across U.S. Colleges
 
 ## Overview
 

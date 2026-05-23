@@ -1,4 +1,4 @@
-# 📈 Cross-Impact Order Flow Imbalance (OFI) Analysis
+# Cross-Impact Order Flow Imbalance (OFI) Analysis
 
 ## Overview
 

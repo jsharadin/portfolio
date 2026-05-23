@@ -1,4 +1,4 @@
-# 🏥 WHO Health Disparities Analysis
+# WHO Health Disparities Analysis
 
 ## Overview
 
@@ -34,11 +34,3 @@ Completed at UC Berkeley.
 ## Contents
 
 - `project_code.pdf` — exported notebook with the full analysis and visualizations.
-
-## 📊 Project Website
-
-Explore the full project: **[Project Website](https://sites.google.com/berkeley.edu/dighum100-project-website?pli=1&authuser=1)**
-
-## 📹 Video Presentation
-
-Watch the summary: **[YouTube Video](https://www.youtube.com/watch?v=xAlxtog_4ns)**
