@@ -4,7 +4,7 @@
 
 A **digital-humanities + data-analysis** project investigating disparities in healthcare access and quality through the lens of socio-economic status, race, and gender. Using data from the **World Health Organization (WHO) Global Health Observatory** and complementary sources, the project explores how structural inequalities shape health outcomes — with a focus on marginalized communities.
 
-Completed for **DIGHUM 100** at UC Berkeley.
+Completed at UC Berkeley.
 
 ## Key Components
 
@@ -37,7 +37,7 @@ Completed for **DIGHUM 100** at UC Berkeley.
 
 ## 📊 Project Website
 
-Explore the full project: **[DIGHUM 100 Project Website](https://sites.google.com/berkeley.edu/dighum100-project-website?pli=1&authuser=1)**
+Explore the full project: **[Project Website](https://sites.google.com/berkeley.edu/dighum100-project-website?pli=1&authuser=1)**
 
 ## 📹 Video Presentation
 

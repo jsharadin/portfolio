@@ -2,7 +2,7 @@
 
 ## Overview
 
-Final project for **ECON 148** at UC Berkeley. This analysis explores the relationship between the **income composition of U.S. colleges** and the **intergenerational economic mobility** they produce, using the **Mobility Report Cards** dataset (Chetty, Friedman, Saez, Turner, Yagan).
+Final project at UC Berkeley. This analysis explores the relationship between the **income composition of U.S. colleges** and the **intergenerational economic mobility** they produce, using the **Mobility Report Cards** dataset (Chetty, Friedman, Saez, Turner, Yagan).
 
 The central question: *do colleges that enroll more low-income students actually move them up the income distribution — and how does this vary by tier and institution type?*
 

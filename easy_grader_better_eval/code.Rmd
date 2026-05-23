@@ -1,6 +1,6 @@
 ---
-title: "STAT151 Project Final Code"
-author: "J. Sharadin, P.Shen, M. Vashel"
+title: "Teaching Evaluations: Multilevel Analysis"
+author: "J. Sharadin"
 output: pdf_document
 date: "2024-12-09"
 editor_options: 
@@ -24,7 +24,7 @@ library(corrplot)
 ## Load Teaching Evaluation Data set
 
 ```{r}
-replication <- read.csv("/Users/jakesharadin/Desktop/berkeley/2024_3_fall/stat_151/final_project/replication.csv")
+replication <- read.csv("replication.csv")
 
 str(replication)
 summary(replication)

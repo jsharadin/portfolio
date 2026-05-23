@@ -2,7 +2,7 @@
 
 ## Overview
 
-**STAT 151A** group project (*J. Sharadin, P. Shen, M. Vashel*) replicating and extending prior research on whether **instructor leniency** drives **student evaluation of teaching (SET) scores**. We use **mixed-effects models** with **cluster-robust standard errors** to disentangle instructor effects from course-level confounders.
+Group project replicating and extending prior research on whether **instructor leniency** drives **student evaluation of teaching (SET) scores**. We use **mixed-effects models** with **cluster-robust standard errors** to disentangle instructor effects from course-level confounders.
 
 The full paper is in `final_paper.pdf`.
 

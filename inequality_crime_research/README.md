@@ -2,7 +2,7 @@
 
 ## Overview
 
-Independent research project (**ECON 191**, UC Berkeley) estimating the **causal effect of income inequality on county-level crime rates** in the United States. Because inequality is endogenous to crime, we use **Instrumental Variables (2SLS and IV-GMM)** with the **1860 county-level slave share** as a historical instrument for present-day inequality — building on the literature that traces persistent economic disparities to the legacy of slavery.
+Independent research project (UC Berkeley) estimating the **causal effect of income inequality on county-level crime rates** in the United States. Because inequality is endogenous to crime, we use **Instrumental Variables (2SLS and IV-GMM)** with the **1860 county-level slave share** as a historical instrument for present-day inequality — building on the literature that traces persistent economic disparities to the legacy of slavery.
 
 The full write-up is in `inequality_crime_slavery_paper.pdf`.
 
