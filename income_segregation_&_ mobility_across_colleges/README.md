@@ -15,7 +15,7 @@ The central question: *do colleges that enroll more low-income students actually
 
 ## Tech Stack
 
-- **Python** (3.10+)
+- **Python** (tested on 3.9)
 - **pandas**, **NumPy**, **SciPy** — data wrangling & stats
 - **statsmodels** — regression analysis
 - **seaborn**, **matplotlib** — visualization
@@ -31,12 +31,12 @@ The central question: *do colleges that enroll more low-income students actually
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/jsharadin/portfolio.git
-   cd "portfolio/research_and_case_studies/income_segregation_&_ mobility_across_colleges"
+   cd "portfolio/income_segregation_&_ mobility_across_colleges"
    ```
 
 2. **Install dependencies:**
    ```bash
-   pip install pandas numpy scipy statsmodels seaborn matplotlib jupyter
+   pip install -r requirements.txt
    ```
 
 3. **Obtain the data.** Download `mrc_table_2.csv` from the [Opportunity Insights Mobility Report Cards page](https://opportunityinsights.org/data/) and place it in this folder.

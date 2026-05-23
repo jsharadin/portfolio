@@ -16,7 +16,7 @@ The full write-up is in `inequality_crime_slavery_paper.pdf`.
 
 ## Tech Stack
 
-- **Python** (3.10+)
+- **Python** (tested on 3.9)
 - **pandas**, **NumPy**, **pickle** — data wrangling
 - **statsmodels** — OLS, diagnostics
 - **linearmodels** — `IV2SLS`, `IVGMM`
@@ -43,12 +43,12 @@ inequality_crime_research/
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/jsharadin/portfolio.git
-   cd portfolio/research_and_case_studies/inequality_crime_research
+   cd portfolio/inequality_crime_research
    ```
 
 2. **Install dependencies:**
    ```bash
-   pip install pandas numpy statsmodels linearmodels scikit-learn seaborn matplotlib quantecon kagglehub
+   pip install -r requirements.txt
    ```
 
 3. **Obtain the data.** The raw `.dta` files and intermediate `.pkl` panels are not included due to size and licensing. The paper documents the source datasets (Census, FBI UCR, 1860 historical census).

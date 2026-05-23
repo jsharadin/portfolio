@@ -16,7 +16,7 @@ The project was completed as a feature-analysis work trial.
 
 ## Tech Stack
 
-- **Python** (3.10+)
+- **Python** (tested on 3.9)
 - **pandas**, **NumPy** — data wrangling
 - **Databento** + **zstandard** — market-data ingest (`.dbn.zst`)
 - **scikit-learn** — PCA, StandardScaler
@@ -43,7 +43,7 @@ cross_impact_OFI_analysis/
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/jsharadin/portfolio.git
-   cd portfolio/research_and_case_studies/cross_impact_OFI_analysis
+   cd portfolio/cross_impact_OFI_analysis
    ```
 
 2. **Install dependencies:**

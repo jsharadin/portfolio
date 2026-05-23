@@ -42,7 +42,7 @@ The full paper is in `final_paper.pdf`.
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/jsharadin/portfolio.git
-   cd portfolio/statistical_analysis/easy_grader_better_eval
+   cd portfolio/easy_grader_better_eval
    ```
 
 2. **Install R dependencies:**
