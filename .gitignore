@@ -29,3 +29,4 @@ env/
 *.pkl
 .DS_Store
 .git_old_backup/
+.DS_Store
