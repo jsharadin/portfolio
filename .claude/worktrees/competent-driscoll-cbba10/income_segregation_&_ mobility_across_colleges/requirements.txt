@@ -1,8 +1,0 @@
-# Tested with Python 3.9.6
-pandas==2.2.3
-numpy==1.25.0
-scipy==1.11.4
-statsmodels==0.14.1
-seaborn==0.13.0
-matplotlib==3.8.2
-jupyter==1.0.0

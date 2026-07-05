@@ -30,3 +30,4 @@ env/
 .DS_Store
 .git_old_backup/
 .DS_Store
+.claude/
