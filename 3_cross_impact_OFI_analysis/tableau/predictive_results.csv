@@ -1,0 +1,21 @@
+Horizon,Stock,Sector,Coefficient,T-Stat,R-Squared,N Observations,Return Volatility Annualized (%),Mean Abs OFI
+1-minute,PEP,Consumer Staples,-0.033574,-1.27,0.000208,2954,272.66,1.0752
+1-minute,XOM,Energy,0.247073,1.66,0.000543,3064,1089.11,1.136
+1-minute,TSLA,Consumer Discretionary,0.016169,0.47,4.6e-05,3539,250.48,0.734
+1-minute,NVDA,Technology,-0.050862,-1.39,0.000528,3539,264.92,1.0752
+1-minute,AAPL,Technology,0.077806,0.84,0.000408,3428,495.66,1.0685
+1-minute,JPM,Financials,-0.068429,-1.45,0.001028,3067,235.68,0.9717
+1-minute,V,Financials,-0.030472,-0.8,0.000239,3150,225.7,1.0229
+1-minute,AMGN,Healthcare,0.064907,1.37,0.000636,2466,285.75,0.9152
+1-minute,MSFT,Technology,0.039091,1.73,0.000134,3442,314.39,0.634
+1-minute,GILD,Healthcare,-0.115524,-0.71,0.000264,2881,707.21,1.0985
+5-minute,PEP,Consumer Staples,0.083532,1.16,0.000234,2952,638.83,1.0751
+5-minute,XOM,Energy,0.000654,0.43,5.5e-05,3063,9.02,1.136
+5-minute,TSLA,Consumer Discretionary,0.000304,0.13,2e-06,3539,25.52,0.734
+5-minute,NVDA,Technology,0.004516,1.0,0.000268,3539,33.04,1.0752
+5-minute,AAPL,Technology,0.00061,1.66,0.00083,3427,2.72,1.0687
+5-minute,JPM,Financials,-0.00703,-0.71,9.8e-05,3067,78.57,0.9717
+5-minute,V,Financials,-0.032744,-0.89,0.000309,3150,213.2,1.0229
+5-minute,AMGN,Healthcare,-0.001295,-0.12,3e-06,2464,80.54,0.9149
+5-minute,MSFT,Technology,0.005291,1.5,0.000586,3440,20.37,0.6341
+5-minute,GILD,Healthcare,0.005369,0.52,5.5e-05,2878,71.71,1.0983

@@ -1,0 +1,1790 @@
+week_start,channel,flavor,forecasted,delivered,sold,unsold,revenue
+2021-01-11,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-01-11,LokelsOnly,Strawberry,3,3,2,1,9.98
+2021-01-18,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-01-25,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-01-25,LA Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-02-01,LA Farmers Markets,Banana,2,2,2,0,9.98
+2021-02-01,LA Farmers Markets,Strawberry,2,2,1,1,4.99
+2021-02-01,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-02-08,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-02-08,LA Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-02-08,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-02-08,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-02-15,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-02-15,LA Farmers Markets,Chocolate,2,2,2,0,9.98
+2021-02-15,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-02-22,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-02-22,LA Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-02-22,LA Farmers Markets,Strawberry,3,3,2,1,9.98
+2021-03-01,Campus Partners,Strawberry,2,2,1,1,4.99
+2021-03-01,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-03-01,LA Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-03-01,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-03-01,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-03-08,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-03-08,LA Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-03-08,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-03-08,LokelsOnly,Banana,1,1,1,0,4.99
+2021-03-08,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-03-15,Campus Partners,Cinnamon,3,3,2,1,9.98
+2021-03-15,Campus Partners,Strawberry,3,3,2,1,9.98
+2021-03-15,LA Farmers Markets,Chocolate,2,2,2,0,9.98
+2021-03-15,LA Farmers Markets,Strawberry,4,4,4,0,19.96
+2021-03-15,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-03-22,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-03-22,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-03-22,LA Farmers Markets,Banana,2,2,2,0,9.98
+2021-03-22,LA Farmers Markets,Chocolate,3,3,3,0,14.97
+2021-03-22,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-03-22,LA Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-03-22,LA Farmers Markets,Thai Tea,2,2,1,1,4.99
+2021-03-22,LokelsOnly,Banana,1,1,1,0,4.99
+2021-03-22,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-03-29,Campus Partners,Banana,1,1,1,0,4.99
+2021-03-29,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-03-29,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-03-29,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-03-29,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-03-29,LA Farmers Markets,Thai Tea,2,2,2,0,9.98
+2021-03-29,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-03-29,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-04-05,Campus Partners,Chocolate,6,6,5,1,24.95
+2021-04-05,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-04-05,LA Farmers Markets,Chocolate,4,4,2,2,9.98
+2021-04-05,LA Farmers Markets,Cinnamon,3,3,2,1,9.98
+2021-04-05,LA Farmers Markets,Strawberry,10,10,6,4,29.94
+2021-04-05,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-04-05,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-04-05,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-04-05,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-04-05,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-04-12,Campus Partners,Chocolate,2,2,2,0,9.98
+2021-04-12,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-04-12,LA Farmers Markets,Chocolate,4,4,3,1,14.97
+2021-04-12,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-04-12,LA Farmers Markets,Strawberry,3,3,2,1,9.98
+2021-04-12,LA Farmers Markets,Thai Tea,4,4,4,0,19.96
+2021-04-12,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-04-12,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2021-04-12,UCLA Duffl,Strawberry,3,3,2,1,9.98
+2021-04-12,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2021-04-19,Campus Partners,Banana,3,3,3,0,14.97
+2021-04-19,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-04-19,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-04-19,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-04-19,LA Farmers Markets,Banana,2,2,2,0,9.98
+2021-04-19,LA Farmers Markets,Chocolate,2,2,2,0,9.98
+2021-04-19,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-04-19,LA Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-04-19,LokelsOnly,Banana,1,1,1,0,4.99
+2021-04-19,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-04-19,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-04-19,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-04-26,Campus Partners,Banana,1,1,1,0,4.99
+2021-04-26,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-04-26,Campus Partners,Strawberry,3,4,4,0,19.96
+2021-04-26,LA Farmers Markets,Banana,3,3,3,0,14.97
+2021-04-26,LA Farmers Markets,Chocolate,4,4,4,0,19.96
+2021-04-26,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-04-26,LA Farmers Markets,Strawberry,6,6,5,1,24.95
+2021-04-26,LokelsOnly,Banana,1,1,1,0,4.99
+2021-04-26,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-04-26,UCLA Duffl,Chocolate,3,3,2,1,9.98
+2021-04-26,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2021-04-26,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-05-03,Campus Partners,Banana,1,1,1,0,4.99
+2021-05-03,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-05-03,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-05-03,LA Farmers Markets,Chocolate,6,6,5,1,24.95
+2021-05-03,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-05-03,LA Farmers Markets,Strawberry,3,3,2,1,9.98
+2021-05-03,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-05-03,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-05-03,UCLA Duffl,Chocolate,2,2,2,0,9.98
+2021-05-03,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-05-03,UCLA Duffl,Strawberry,3,3,3,0,14.97
+2021-05-10,Campus Partners,Banana,1,1,1,0,4.99
+2021-05-10,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-05-10,Campus Partners,Thai Tea,1,2,2,0,9.98
+2021-05-10,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-05-10,LA Farmers Markets,Chocolate,5,5,4,1,19.96
+2021-05-10,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-05-10,LA Farmers Markets,Strawberry,8,8,5,3,24.95
+2021-05-10,LA Farmers Markets,Thai Tea,5,5,3,2,14.97
+2021-05-10,UCLA Duffl,Banana,2,2,2,0,9.98
+2021-05-10,UCLA Duffl,Chocolate,4,4,3,1,14.97
+2021-05-10,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-05-10,UCLA Duffl,Strawberry,2,2,2,0,9.98
+2021-05-10,UCLA Duffl,Thai Tea,3,3,2,1,9.98
+2021-05-17,Campus Partners,Banana,1,1,1,0,4.99
+2021-05-17,Campus Partners,Chocolate,2,2,2,0,9.98
+2021-05-17,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-05-17,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-05-17,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-05-17,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-05-17,LA Farmers Markets,Chocolate,8,8,6,2,29.94
+2021-05-17,LA Farmers Markets,Cinnamon,6,6,6,0,29.94
+2021-05-17,LA Farmers Markets,Strawberry,4,4,4,0,19.96
+2021-05-17,LA Farmers Markets,Thai Tea,3,3,3,0,14.97
+2021-05-17,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-05-17,LokelsOnly,Cinnamon,2,2,2,0,9.98
+2021-05-17,UCLA Duffl,Banana,2,2,2,0,9.98
+2021-05-17,UCLA Duffl,Chocolate,3,3,3,0,14.97
+2021-05-17,UCLA Duffl,Strawberry,4,4,3,1,14.97
+2021-05-17,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2021-05-24,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-05-24,Campus Partners,Strawberry,2,2,1,1,4.99
+2021-05-24,Campus Partners,Thai Tea,3,3,2,1,9.98
+2021-05-24,LA Farmers Markets,Banana,2,2,2,0,9.98
+2021-05-24,LA Farmers Markets,Chocolate,3,3,3,0,14.97
+2021-05-24,LA Farmers Markets,Cinnamon,4,4,3,1,14.97
+2021-05-24,LA Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-05-24,LA Farmers Markets,Thai Tea,2,2,2,0,9.98
+2021-05-24,LokelsOnly,Banana,1,1,1,0,4.99
+2021-05-24,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-05-24,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-05-24,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-05-24,UCLA Duffl,Strawberry,10,10,8,2,39.92
+2021-05-31,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-05-31,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-05-31,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-05-31,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-05-31,LA Farmers Markets,Chocolate,5,5,5,0,24.95
+2021-05-31,LA Farmers Markets,Cinnamon,6,6,5,1,24.95
+2021-05-31,LA Farmers Markets,Strawberry,4,4,4,0,19.96
+2021-05-31,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-05-31,LokelsOnly,Banana,2,2,1,1,4.99
+2021-05-31,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-05-31,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-05-31,UCLA Duffl,Banana,2,2,2,0,9.98
+2021-05-31,UCLA Duffl,Chocolate,4,4,4,0,19.96
+2021-05-31,UCLA Duffl,Cinnamon,1,2,2,0,9.98
+2021-05-31,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-05-31,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2021-06-07,Campus Partners,Banana,2,2,1,1,4.99
+2021-06-07,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-06-07,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-06-07,LA Farmers Markets,Chocolate,2,2,2,0,9.98
+2021-06-07,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-06-07,LA Farmers Markets,Strawberry,5,5,5,0,24.95
+2021-06-07,SB Farmers Markets,Banana,1,1,1,0,4.99
+2021-06-07,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-06-07,SB Farmers Markets,Cinnamon,3,3,2,1,9.98
+2021-06-07,UCLA Duffl,Banana,2,2,2,0,9.98
+2021-06-07,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-06-07,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-06-07,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-06-07,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-06-14,Campus Partners,Banana,1,1,1,0,4.99
+2021-06-14,Campus Partners,Chocolate,6,6,4,2,19.96
+2021-06-14,Campus Partners,Cinnamon,4,4,4,0,19.96
+2021-06-14,Campus Partners,Strawberry,4,5,5,0,24.95
+2021-06-14,LA Farmers Markets,Banana,5,5,4,1,19.96
+2021-06-14,LA Farmers Markets,Chocolate,5,5,5,0,24.95
+2021-06-14,LA Farmers Markets,Cinnamon,4,4,4,0,19.96
+2021-06-14,LA Farmers Markets,Strawberry,7,7,4,3,19.96
+2021-06-14,LA Farmers Markets,Thai Tea,1,2,2,0,9.98
+2021-06-14,LokelsOnly,Chocolate,2,2,1,1,4.99
+2021-06-14,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-06-14,SB Farmers Markets,Banana,1,1,1,0,4.99
+2021-06-14,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-06-14,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-06-14,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-06-14,UCLA Duffl,Cinnamon,4,4,3,1,14.97
+2021-06-14,UCLA Duffl,Strawberry,3,3,3,0,14.97
+2021-06-14,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2021-06-21,Campus Partners,Banana,1,1,1,0,4.99
+2021-06-21,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-06-21,Campus Partners,Strawberry,2,2,2,0,9.98
+2021-06-21,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-06-21,LA Farmers Markets,Chocolate,5,5,5,0,24.95
+2021-06-21,LA Farmers Markets,Cinnamon,5,5,4,1,19.96
+2021-06-21,LA Farmers Markets,Strawberry,3,3,3,0,14.97
+2021-06-21,LA Farmers Markets,Thai Tea,5,5,3,2,14.97
+2021-06-21,LokelsOnly,Banana,1,1,1,0,4.99
+2021-06-21,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-06-21,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-06-21,SB Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-06-21,UCLA Duffl,Banana,4,4,3,1,14.97
+2021-06-21,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-06-21,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-06-21,UCLA Duffl,Strawberry,3,3,3,0,14.97
+2021-06-21,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-06-28,Campus Partners,Banana,2,2,2,0,9.98
+2021-06-28,Campus Partners,Chocolate,5,5,3,2,14.97
+2021-06-28,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-06-28,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-06-28,LA Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-06-28,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-06-28,LA Farmers Markets,Strawberry,5,6,6,0,29.94
+2021-06-28,LA Farmers Markets,Thai Tea,4,4,4,0,19.96
+2021-06-28,LokelsOnly,Banana,1,1,1,0,4.99
+2021-06-28,LokelsOnly,Chocolate,2,2,2,0,9.98
+2021-06-28,LokelsOnly,Cinnamon,2,2,1,1,4.99
+2021-06-28,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-06-28,SB Farmers Markets,Cinnamon,4,4,3,1,14.97
+2021-06-28,SB Farmers Markets,Thai Tea,2,2,2,0,9.98
+2021-06-28,UCLA Duffl,Chocolate,2,3,3,0,14.97
+2021-06-28,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-06-28,UCLA Duffl,Strawberry,3,3,2,1,9.98
+2021-07-05,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-07-05,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-07-05,LA Farmers Markets,Chocolate,4,4,3,1,14.97
+2021-07-05,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-07-05,LA Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-07-05,LA Farmers Markets,Thai Tea,4,4,3,1,14.97
+2021-07-05,SB Farmers Markets,Banana,2,2,1,1,4.99
+2021-07-05,SB Farmers Markets,Cinnamon,3,3,3,0,14.97
+2021-07-05,SB Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-07-05,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-07-05,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-07-05,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-07-05,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-07-05,UCLA Duffl,Thai Tea,3,3,2,1,9.98
+2021-07-12,Campus Partners,Banana,1,1,1,0,4.99
+2021-07-12,Campus Partners,Chocolate,2,2,2,0,9.98
+2021-07-12,Campus Partners,Strawberry,2,2,2,0,9.98
+2021-07-12,LA Farmers Markets,Banana,4,4,3,1,14.97
+2021-07-12,LA Farmers Markets,Chocolate,3,3,3,0,14.97
+2021-07-12,LA Farmers Markets,Cinnamon,4,4,3,1,14.97
+2021-07-12,LA Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-07-12,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-07-12,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-07-12,SB Farmers Markets,Strawberry,4,4,3,1,14.97
+2021-07-12,UCLA Duffl,Chocolate,2,2,2,0,9.98
+2021-07-19,Campus Partners,Banana,3,3,2,1,9.98
+2021-07-19,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-07-19,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-07-19,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-07-19,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-07-19,LA Farmers Markets,Chocolate,2,2,2,0,9.98
+2021-07-19,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-07-19,LA Farmers Markets,Strawberry,2,2,2,0,9.98
+2021-07-19,LA Farmers Markets,Thai Tea,4,4,3,1,14.97
+2021-07-19,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-07-19,SB Farmers Markets,Chocolate,3,3,2,1,9.98
+2021-07-19,UCLA Duffl,Chocolate,2,2,2,0,9.98
+2021-07-19,UCLA Duffl,Cinnamon,3,3,2,1,9.98
+2021-07-19,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-07-19,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-07-19,Uber Eats,Cinnamon,1,1,1,0,4.99
+2021-07-26,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-07-26,LA Farmers Markets,Banana,3,3,2,1,9.98
+2021-07-26,LA Farmers Markets,Chocolate,5,5,4,1,19.96
+2021-07-26,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-07-26,LA Farmers Markets,Strawberry,3,3,3,0,14.97
+2021-07-26,LokelsOnly,Banana,2,2,2,0,9.98
+2021-07-26,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-07-26,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-07-26,SB Farmers Markets,Banana,4,4,3,1,14.97
+2021-07-26,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-07-26,SB Farmers Markets,Strawberry,2,2,2,0,9.98
+2021-07-26,UCLA Duffl,Cinnamon,4,4,4,0,19.96
+2021-07-26,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2021-07-26,Uber Eats,Strawberry,1,1,1,0,4.99
+2021-08-02,Campus Partners,Banana,2,2,1,1,4.99
+2021-08-02,Campus Partners,Chocolate,2,2,2,0,9.98
+2021-08-02,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-08-02,Campus Partners,Thai Tea,2,2,2,0,9.98
+2021-08-02,LA Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-08-02,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-08-02,LA Farmers Markets,Strawberry,5,5,3,2,14.97
+2021-08-02,LA Farmers Markets,Thai Tea,2,2,2,0,9.98
+2021-08-02,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-08-02,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-08-02,SB Farmers Markets,Banana,1,1,1,0,4.99
+2021-08-02,SB Farmers Markets,Strawberry,6,6,5,1,24.95
+2021-08-02,SB Farmers Markets,Thai Tea,2,2,2,0,9.98
+2021-08-02,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-08-02,UCLA Duffl,Chocolate,4,4,3,1,14.97
+2021-08-02,UCLA Duffl,Cinnamon,2,2,1,1,4.99
+2021-08-02,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-08-02,Uber Eats,Chocolate,1,1,1,0,4.99
+2021-08-02,Uber Eats,Thai Tea,1,1,1,0,4.99
+2021-08-09,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-08-09,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-08-09,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-08-09,LA Farmers Markets,Chocolate,6,6,5,1,24.95
+2021-08-09,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-08-09,LA Farmers Markets,Strawberry,5,5,5,0,24.95
+2021-08-09,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-08-09,SB Farmers Markets,Banana,2,2,2,0,9.98
+2021-08-09,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-08-09,SB Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-08-09,SB Farmers Markets,Strawberry,3,3,2,1,9.98
+2021-08-09,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-08-09,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-08-09,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-08-09,UCLA Duffl,Strawberry,2,2,2,0,9.98
+2021-08-09,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-08-09,Uber Eats,Strawberry,1,1,1,0,4.99
+2021-08-16,Campus Partners,Cinnamon,2,2,2,0,9.98
+2021-08-16,Campus Partners,Strawberry,3,3,2,1,9.98
+2021-08-16,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-08-16,LA Farmers Markets,Banana,4,4,3,1,14.97
+2021-08-16,LA Farmers Markets,Chocolate,2,3,3,0,14.97
+2021-08-16,LA Farmers Markets,Cinnamon,3,3,2,1,9.98
+2021-08-16,LA Farmers Markets,Strawberry,5,5,4,1,19.96
+2021-08-16,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-08-16,SB Farmers Markets,Banana,1,1,1,0,4.99
+2021-08-16,SB Farmers Markets,Chocolate,2,2,2,0,9.98
+2021-08-16,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-08-16,SB Farmers Markets,Strawberry,3,3,2,1,9.98
+2021-08-16,SB Farmers Markets,Thai Tea,2,2,2,0,9.98
+2021-08-16,UCLA Duffl,Chocolate,2,2,2,0,9.98
+2021-08-16,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-08-16,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2021-08-16,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2021-08-16,Uber Eats,Cinnamon,1,1,1,0,4.99
+2021-08-23,Campus Partners,Banana,3,3,2,1,9.98
+2021-08-23,Campus Partners,Chocolate,3,3,2,1,9.98
+2021-08-23,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-08-23,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-08-23,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-08-23,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-08-23,LA Farmers Markets,Chocolate,2,2,2,0,9.98
+2021-08-23,LA Farmers Markets,Cinnamon,4,4,4,0,19.96
+2021-08-23,LA Farmers Markets,Strawberry,5,5,4,1,19.96
+2021-08-23,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-08-23,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-08-23,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-08-23,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-08-23,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-08-23,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-08-23,UCLA Duffl,Banana,2,2,1,1,4.99
+2021-08-23,UCLA Duffl,Chocolate,2,2,2,0,9.98
+2021-08-23,UCLA Duffl,Cinnamon,5,5,4,1,19.96
+2021-08-23,UCLA Duffl,Strawberry,2,2,2,0,9.98
+2021-08-23,UCSB Duffl,Cinnamon,3,3,2,1,9.98
+2021-08-23,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2021-08-23,UCSB Duffl,Thai Tea,2,2,2,0,9.98
+2021-08-23,Uber Eats,Chocolate,1,1,1,0,4.99
+2021-08-23,Uber Eats,Cinnamon,1,1,1,0,4.99
+2021-08-30,Campus Partners,Strawberry,1,2,2,0,9.98
+2021-08-30,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-08-30,LA Farmers Markets,Banana,6,6,4,2,19.96
+2021-08-30,LA Farmers Markets,Chocolate,8,8,6,2,29.94
+2021-08-30,LA Farmers Markets,Cinnamon,5,5,4,1,19.96
+2021-08-30,LA Farmers Markets,Strawberry,6,6,5,1,24.95
+2021-08-30,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-08-30,SB Farmers Markets,Chocolate,3,3,2,1,9.98
+2021-08-30,SB Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-08-30,UCLA Duffl,Banana,4,4,3,1,14.97
+2021-08-30,UCLA Duffl,Chocolate,1,2,2,0,9.98
+2021-08-30,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2021-08-30,Uber Eats,Banana,1,1,1,0,4.99
+2021-08-30,Uber Eats,Strawberry,2,2,1,1,4.99
+2021-09-06,Campus Partners,Strawberry,3,3,3,0,14.97
+2021-09-06,LA Farmers Markets,Banana,4,5,5,0,24.95
+2021-09-06,LA Farmers Markets,Chocolate,8,8,7,1,34.93
+2021-09-06,LA Farmers Markets,Cinnamon,3,3,2,1,9.98
+2021-09-06,LA Farmers Markets,Strawberry,10,10,10,0,49.9
+2021-09-06,LA Farmers Markets,Thai Tea,3,4,4,0,19.96
+2021-09-06,LokelsOnly,Banana,1,1,1,0,4.99
+2021-09-06,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-09-06,SB Farmers Markets,Banana,1,1,1,0,4.99
+2021-09-06,SB Farmers Markets,Chocolate,5,5,4,1,19.96
+2021-09-06,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-09-06,SB Farmers Markets,Strawberry,3,3,2,1,9.98
+2021-09-06,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-09-06,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-09-06,UCLA Duffl,Chocolate,5,5,4,1,19.96
+2021-09-06,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2021-09-06,UCLA Duffl,Strawberry,4,4,4,0,19.96
+2021-09-06,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-09-06,UCSB Duffl,Banana,0,1,1,0,4.99
+2021-09-06,UCSB Duffl,Chocolate,3,3,3,0,14.97
+2021-09-06,Uber Eats,Chocolate,1,1,1,0,4.99
+2021-09-06,Uber Eats,Cinnamon,1,1,1,0,4.99
+2021-09-13,Berkeley Farmers Market,Banana,1,1,1,0,4.99
+2021-09-13,Berkeley Farmers Market,Cinnamon,1,1,1,0,4.99
+2021-09-13,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-09-13,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-09-13,LA Farmers Markets,Chocolate,8,8,7,1,34.93
+2021-09-13,LA Farmers Markets,Cinnamon,4,4,4,0,19.96
+2021-09-13,LA Farmers Markets,Strawberry,2,4,4,0,19.96
+2021-09-13,LA Farmers Markets,Thai Tea,4,4,3,1,14.97
+2021-09-13,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-09-13,SB Farmers Markets,Banana,2,2,2,0,9.98
+2021-09-13,SB Farmers Markets,Chocolate,6,6,4,2,19.96
+2021-09-13,SB Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-09-13,SB Farmers Markets,Strawberry,3,3,3,0,14.97
+2021-09-13,SB Farmers Markets,Thai Tea,3,3,3,0,14.97
+2021-09-13,UCLA Duffl,Banana,2,2,2,0,9.98
+2021-09-13,UCLA Duffl,Strawberry,6,7,7,0,34.93
+2021-09-13,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-09-13,UCSB Duffl,Banana,3,3,2,1,9.98
+2021-09-13,UCSB Duffl,Chocolate,2,2,2,0,9.98
+2021-09-13,Uber Eats,Chocolate,1,1,1,0,4.99
+2021-09-13,Uber Eats,Cinnamon,3,3,2,1,9.98
+2021-09-13,Uber Eats,Strawberry,2,2,2,0,9.98
+2021-09-13,Uber Eats,Thai Tea,1,1,1,0,4.99
+2021-09-20,Berkeley Farmers Market,Cinnamon,1,1,1,0,4.99
+2021-09-20,Campus Partners,Banana,3,3,2,1,9.98
+2021-09-20,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-09-20,Campus Partners,Cinnamon,2,2,2,0,9.98
+2021-09-20,Campus Partners,Strawberry,3,3,3,0,14.97
+2021-09-20,Campus Partners,Thai Tea,4,4,4,0,19.96
+2021-09-20,LA Farmers Markets,Banana,4,4,4,0,19.96
+2021-09-20,LA Farmers Markets,Chocolate,13,13,11,2,54.89
+2021-09-20,LA Farmers Markets,Cinnamon,3,3,2,1,9.98
+2021-09-20,LA Farmers Markets,Strawberry,4,4,4,0,19.96
+2021-09-20,LA Farmers Markets,Thai Tea,9,9,7,2,34.93
+2021-09-20,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-09-20,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-09-20,SB Farmers Markets,Chocolate,2,2,2,0,9.98
+2021-09-20,SB Farmers Markets,Cinnamon,6,6,4,2,19.96
+2021-09-20,SB Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-09-20,UCLA Duffl,Banana,2,2,2,0,9.98
+2021-09-20,UCLA Duffl,Chocolate,4,4,4,0,19.96
+2021-09-20,UCLA Duffl,Cinnamon,2,3,3,0,14.97
+2021-09-20,UCLA Duffl,Strawberry,4,4,4,0,19.96
+2021-09-20,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-09-20,UCSB Duffl,Banana,2,2,1,1,4.99
+2021-09-20,UCSB Duffl,Chocolate,2,2,2,0,9.98
+2021-09-20,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2021-09-20,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2021-09-20,Uber Eats,Chocolate,2,2,1,1,4.99
+2021-09-20,Uber Eats,Cinnamon,2,2,1,1,4.99
+2021-09-20,Uber Eats,Strawberry,2,2,2,0,9.98
+2021-09-20,Uber Eats,Thai Tea,1,1,1,0,4.99
+2021-09-27,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2021-09-27,Berkeley Farmers Market,Strawberry,1,1,1,0,4.99
+2021-09-27,Campus Partners,Banana,2,2,2,0,9.98
+2021-09-27,Campus Partners,Chocolate,2,2,2,0,9.98
+2021-09-27,Campus Partners,Cinnamon,2,2,2,0,9.98
+2021-09-27,Campus Partners,Strawberry,9,9,7,2,34.93
+2021-09-27,Campus Partners,Thai Tea,2,2,2,0,9.98
+2021-09-27,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-09-27,LA Farmers Markets,Chocolate,4,4,4,0,19.96
+2021-09-27,LA Farmers Markets,Cinnamon,5,5,4,1,19.96
+2021-09-27,LA Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-09-27,LA Farmers Markets,Thai Tea,4,4,3,1,14.97
+2021-09-27,LokelsOnly,Banana,2,2,1,1,4.99
+2021-09-27,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-09-27,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-09-27,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-09-27,SB Farmers Markets,Banana,8,8,6,2,29.94
+2021-09-27,SB Farmers Markets,Chocolate,6,8,8,0,39.92
+2021-09-27,SB Farmers Markets,Cinnamon,3,4,4,0,19.96
+2021-09-27,SB Farmers Markets,Strawberry,4,4,4,0,19.96
+2021-09-27,SB Farmers Markets,Thai Tea,2,2,2,0,9.98
+2021-09-27,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-09-27,UCLA Duffl,Chocolate,3,3,3,0,14.97
+2021-09-27,UCLA Duffl,Cinnamon,4,4,3,1,14.97
+2021-09-27,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-09-27,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-09-27,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2021-09-27,UCSB Duffl,Strawberry,7,7,4,3,19.96
+2021-09-27,Uber Eats,Chocolate,3,3,2,1,9.98
+2021-09-27,Uber Eats,Thai Tea,2,2,2,0,9.98
+2021-10-04,Berkeley Farmers Market,Banana,2,2,2,0,9.98
+2021-10-04,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2021-10-04,Berkeley Farmers Market,Strawberry,1,1,1,0,4.99
+2021-10-04,Campus Partners,Banana,3,3,2,1,9.98
+2021-10-04,Campus Partners,Chocolate,3,3,2,1,9.98
+2021-10-04,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-10-04,Campus Partners,Strawberry,6,6,3,3,14.97
+2021-10-04,Campus Partners,Thai Tea,2,2,2,0,9.98
+2021-10-04,LA Farmers Markets,Banana,7,7,7,0,34.93
+2021-10-04,LA Farmers Markets,Chocolate,8,8,7,1,34.93
+2021-10-04,LA Farmers Markets,Cinnamon,5,5,5,0,24.95
+2021-10-04,LA Farmers Markets,Strawberry,6,6,4,2,19.96
+2021-10-04,LA Farmers Markets,Thai Tea,5,7,7,0,34.93
+2021-10-04,LokelsOnly,Banana,1,1,1,0,4.99
+2021-10-04,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-10-04,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-10-04,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-10-04,SB Farmers Markets,Chocolate,5,5,3,2,14.97
+2021-10-04,SB Farmers Markets,Cinnamon,6,6,5,1,24.95
+2021-10-04,SB Farmers Markets,Strawberry,6,6,4,2,19.96
+2021-10-04,UCLA Duffl,Banana,2,3,3,0,14.97
+2021-10-04,UCLA Duffl,Chocolate,3,3,3,0,14.97
+2021-10-04,UCLA Duffl,Cinnamon,5,5,3,2,14.97
+2021-10-04,UCLA Duffl,Strawberry,2,2,2,0,9.98
+2021-10-04,UCLA Duffl,Thai Tea,7,7,5,2,24.95
+2021-10-04,UCSB Duffl,Banana,3,3,2,1,9.98
+2021-10-04,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2021-10-04,UCSB Duffl,Cinnamon,2,2,2,0,9.98
+2021-10-04,UCSB Duffl,Strawberry,4,5,5,0,24.95
+2021-10-04,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2021-10-04,Uber Eats,Cinnamon,4,4,3,1,14.97
+2021-10-04,Uber Eats,Strawberry,2,2,1,1,4.99
+2021-10-11,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2021-10-11,Campus Partners,Banana,3,3,3,0,14.97
+2021-10-11,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-10-11,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-10-11,Campus Partners,Strawberry,5,5,4,1,19.96
+2021-10-11,Campus Partners,Thai Tea,3,3,2,1,9.98
+2021-10-11,LA Farmers Markets,Chocolate,9,9,8,1,39.92
+2021-10-11,LA Farmers Markets,Cinnamon,2,3,3,0,14.97
+2021-10-11,LA Farmers Markets,Strawberry,9,9,7,2,34.93
+2021-10-11,LA Farmers Markets,Taro,1,1,1,0,4.99
+2021-10-11,LA Farmers Markets,Thai Tea,4,4,3,1,14.97
+2021-10-11,SB Farmers Markets,Banana,3,3,2,1,9.98
+2021-10-11,SB Farmers Markets,Chocolate,6,6,4,2,19.96
+2021-10-11,SB Farmers Markets,Cinnamon,3,3,2,1,9.98
+2021-10-11,SB Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-10-11,SB Farmers Markets,Taro,1,1,1,0,4.99
+2021-10-11,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-10-11,UCLA Duffl,Banana,4,4,3,1,14.97
+2021-10-11,UCLA Duffl,Chocolate,8,8,6,2,29.94
+2021-10-11,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-10-11,UCLA Duffl,Strawberry,7,7,6,1,29.94
+2021-10-11,UCLA Duffl,Taro,3,3,3,0,14.97
+2021-10-11,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-10-11,UCSB Duffl,Banana,3,3,3,0,14.97
+2021-10-11,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2021-10-11,UCSB Duffl,Strawberry,3,3,2,1,9.98
+2021-10-11,UCSB Duffl,Taro,1,1,1,0,4.99
+2021-10-11,Uber Eats,Chocolate,1,1,1,0,4.99
+2021-10-11,Uber Eats,Strawberry,1,1,1,0,4.99
+2021-10-18,Berkeley Farmers Market,Banana,1,1,1,0,4.99
+2021-10-18,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2021-10-18,Berkeley Farmers Market,Cinnamon,1,1,1,0,4.99
+2021-10-18,Berkeley Farmers Market,Strawberry,1,1,1,0,4.99
+2021-10-18,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2021-10-18,Berkeley Farmers Market,Thai Tea,1,1,1,0,4.99
+2021-10-18,Campus Partners,Banana,3,4,4,0,19.96
+2021-10-18,Campus Partners,Chocolate,2,3,3,0,14.97
+2021-10-18,Campus Partners,Cinnamon,3,3,2,1,9.98
+2021-10-18,Campus Partners,Strawberry,3,4,4,0,19.96
+2021-10-18,Campus Partners,Taro,1,1,1,0,4.99
+2021-10-18,Campus Partners,Thai Tea,4,4,3,1,14.97
+2021-10-18,LA Farmers Markets,Banana,10,10,7,3,34.93
+2021-10-18,LA Farmers Markets,Chocolate,9,9,6,3,29.94
+2021-10-18,LA Farmers Markets,Cinnamon,3,3,3,0,14.97
+2021-10-18,LA Farmers Markets,Strawberry,6,8,8,0,39.92
+2021-10-18,LA Farmers Markets,Taro,1,1,1,0,4.99
+2021-10-18,LA Farmers Markets,Thai Tea,4,4,3,1,14.97
+2021-10-18,LokelsOnly,Cinnamon,3,3,2,1,9.98
+2021-10-18,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-10-18,LokelsOnly,Thai Tea,3,3,2,1,9.98
+2021-10-18,SB Farmers Markets,Banana,3,3,3,0,14.97
+2021-10-18,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-10-18,SB Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-10-18,SB Farmers Markets,Strawberry,8,8,6,2,29.94
+2021-10-18,SB Farmers Markets,Thai Tea,6,6,5,1,24.95
+2021-10-18,UCLA Duffl,Banana,4,4,4,0,19.96
+2021-10-18,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-10-18,UCLA Duffl,Cinnamon,5,5,4,1,19.96
+2021-10-18,UCLA Duffl,Strawberry,3,3,3,0,14.97
+2021-10-18,UCLA Duffl,Taro,1,1,1,0,4.99
+2021-10-18,UCSB Duffl,Banana,1,1,1,0,4.99
+2021-10-18,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2021-10-18,UCSB Duffl,Cinnamon,3,3,2,1,9.98
+2021-10-18,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2021-10-18,UCSB Duffl,Taro,2,2,2,0,9.98
+2021-10-18,Uber Eats,Chocolate,1,1,1,0,4.99
+2021-10-18,Uber Eats,Cinnamon,2,2,1,1,4.99
+2021-10-18,Uber Eats,Strawberry,3,3,2,1,9.98
+2021-10-18,Uber Eats,Thai Tea,3,3,2,1,9.98
+2021-10-25,Berkeley Farmers Market,Banana,2,2,2,0,9.98
+2021-10-25,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2021-10-25,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2021-10-25,Berkeley Farmers Market,Strawberry,1,1,1,0,4.99
+2021-10-25,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-10-25,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-10-25,Campus Partners,Thai Tea,5,5,5,0,24.95
+2021-10-25,LA Farmers Markets,Banana,4,4,4,0,19.96
+2021-10-25,LA Farmers Markets,Chocolate,6,6,5,1,24.95
+2021-10-25,LA Farmers Markets,Cinnamon,6,6,5,1,24.95
+2021-10-25,LA Farmers Markets,Strawberry,5,5,4,1,19.96
+2021-10-25,LA Farmers Markets,Taro,1,2,2,0,9.98
+2021-10-25,LA Farmers Markets,Thai Tea,5,7,7,0,34.93
+2021-10-25,LokelsOnly,Chocolate,2,2,2,0,9.98
+2021-10-25,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-10-25,LokelsOnly,Taro,3,3,2,1,9.98
+2021-10-25,LokelsOnly,Thai Tea,2,2,2,0,9.98
+2021-10-25,SB Farmers Markets,Banana,1,1,1,0,4.99
+2021-10-25,SB Farmers Markets,Chocolate,3,3,2,1,9.98
+2021-10-25,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-10-25,SB Farmers Markets,Strawberry,3,3,3,0,14.97
+2021-10-25,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-10-25,UCLA Duffl,Banana,3,3,3,0,14.97
+2021-10-25,UCLA Duffl,Chocolate,2,2,2,0,9.98
+2021-10-25,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2021-10-25,UCLA Duffl,Strawberry,4,4,4,0,19.96
+2021-10-25,UCLA Duffl,Taro,4,4,3,1,14.97
+2021-10-25,UCLA Duffl,Thai Tea,4,4,4,0,19.96
+2021-10-25,UCSB Duffl,Banana,3,3,3,0,14.97
+2021-10-25,UCSB Duffl,Chocolate,3,3,3,0,14.97
+2021-10-25,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2021-10-25,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2021-10-25,Uber Eats,Banana,1,1,1,0,4.99
+2021-11-01,Berkeley Farmers Market,Banana,2,2,2,0,9.98
+2021-11-01,Berkeley Farmers Market,Chocolate,3,3,2,1,9.98
+2021-11-01,Berkeley Farmers Market,Strawberry,1,2,2,0,9.98
+2021-11-01,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2021-11-01,Campus Partners,Banana,1,1,1,0,4.99
+2021-11-01,Campus Partners,Chocolate,3,3,2,1,9.98
+2021-11-01,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-11-01,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-11-01,Campus Partners,Taro,1,1,1,0,4.99
+2021-11-01,Campus Partners,Thai Tea,5,5,4,1,19.96
+2021-11-01,LA Farmers Markets,Banana,7,7,5,2,24.95
+2021-11-01,LA Farmers Markets,Chocolate,6,6,6,0,29.94
+2021-11-01,LA Farmers Markets,Cinnamon,4,4,3,1,14.97
+2021-11-01,LA Farmers Markets,Strawberry,6,6,6,0,29.94
+2021-11-01,LA Farmers Markets,Taro,3,3,2,1,9.98
+2021-11-01,LA Farmers Markets,Thai Tea,4,4,4,0,19.96
+2021-11-01,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-11-01,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-11-01,LokelsOnly,Taro,2,2,2,0,9.98
+2021-11-01,SB Farmers Markets,Banana,6,6,4,2,19.96
+2021-11-01,SB Farmers Markets,Chocolate,2,2,2,0,9.98
+2021-11-01,SB Farmers Markets,Cinnamon,3,3,2,1,9.98
+2021-11-01,SB Farmers Markets,Strawberry,4,4,3,1,14.97
+2021-11-01,SB Farmers Markets,Thai Tea,5,5,4,1,19.96
+2021-11-01,UCLA Duffl,Banana,3,3,2,1,9.98
+2021-11-01,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-11-01,UCLA Duffl,Cinnamon,6,6,5,1,24.95
+2021-11-01,UCLA Duffl,Strawberry,7,7,6,1,29.94
+2021-11-01,UCLA Duffl,Taro,1,1,1,0,4.99
+2021-11-01,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2021-11-01,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2021-11-01,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2021-11-01,UCSB Duffl,Thai Tea,2,2,2,0,9.98
+2021-11-01,Uber Eats,Cinnamon,5,5,3,2,14.97
+2021-11-01,Uber Eats,Strawberry,1,1,1,0,4.99
+2021-11-01,Uber Eats,Thai Tea,1,1,1,0,4.99
+2021-11-08,Berkeley Farmers Market,Banana,3,3,2,1,9.98
+2021-11-08,Berkeley Farmers Market,Chocolate,4,4,4,0,19.96
+2021-11-08,Berkeley Farmers Market,Cinnamon,4,4,3,1,14.97
+2021-11-08,Berkeley Farmers Market,Strawberry,2,2,2,0,9.98
+2021-11-08,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2021-11-08,Berkeley Farmers Market,Thai Tea,2,2,2,0,9.98
+2021-11-08,Campus Partners,Banana,2,2,1,1,4.99
+2021-11-08,Campus Partners,Chocolate,2,2,2,0,9.98
+2021-11-08,Campus Partners,Cinnamon,3,3,2,1,9.98
+2021-11-08,Campus Partners,Taro,1,1,1,0,4.99
+2021-11-08,Campus Partners,Thai Tea,2,2,2,0,9.98
+2021-11-08,LA Caravan,Cinnamon,1,1,1,0,4.99
+2021-11-08,LA Farmers Markets,Banana,6,6,5,1,24.95
+2021-11-08,LA Farmers Markets,Chocolate,8,8,7,1,34.93
+2021-11-08,LA Farmers Markets,Cinnamon,7,7,7,0,34.93
+2021-11-08,LA Farmers Markets,Strawberry,7,7,6,1,29.94
+2021-11-08,LA Farmers Markets,Taro,4,4,3,1,14.97
+2021-11-08,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-11-08,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-11-08,LokelsOnly,Strawberry,3,3,2,1,9.98
+2021-11-08,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-11-08,SB Farmers Markets,Banana,2,2,2,0,9.98
+2021-11-08,SB Farmers Markets,Chocolate,4,5,5,0,24.95
+2021-11-08,SB Farmers Markets,Cinnamon,4,4,4,0,19.96
+2021-11-08,SB Farmers Markets,Strawberry,2,3,3,0,14.97
+2021-11-08,UCLA Duffl,Banana,4,4,3,1,14.97
+2021-11-08,UCLA Duffl,Chocolate,8,8,6,2,29.94
+2021-11-08,UCLA Duffl,Cinnamon,5,5,5,0,24.95
+2021-11-08,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-11-08,UCLA Duffl,Taro,1,1,1,0,4.99
+2021-11-08,UCLA Duffl,Thai Tea,5,5,5,0,24.95
+2021-11-08,UCSB Duffl,Chocolate,5,5,3,2,14.97
+2021-11-08,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2021-11-08,UCSB Duffl,Thai Tea,3,3,2,1,9.98
+2021-11-08,Uber Eats,Chocolate,3,3,3,0,14.97
+2021-11-08,Uber Eats,Cinnamon,1,1,1,0,4.99
+2021-11-08,Uber Eats,Taro,1,1,1,0,4.99
+2021-11-15,Berkeley Farmers Market,Banana,2,2,2,0,9.98
+2021-11-15,Berkeley Farmers Market,Chocolate,5,5,4,1,19.96
+2021-11-15,Berkeley Farmers Market,Cinnamon,1,1,1,0,4.99
+2021-11-15,Berkeley Farmers Market,Strawberry,10,10,7,3,34.93
+2021-11-15,Berkeley Farmers Market,Thai Tea,1,1,1,0,4.99
+2021-11-15,Campus Partners,Banana,1,1,1,0,4.99
+2021-11-15,Campus Partners,Chocolate,3,3,3,0,14.97
+2021-11-15,Campus Partners,Cinnamon,3,3,2,1,9.98
+2021-11-15,Campus Partners,Strawberry,1,1,1,0,4.99
+2021-11-15,Campus Partners,Taro,4,4,3,1,14.97
+2021-11-15,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-11-15,LA Caravan,Banana,1,1,1,0,4.99
+2021-11-15,LA Caravan,Chocolate,1,1,1,0,4.99
+2021-11-15,LA Caravan,Cinnamon,1,1,1,0,4.99
+2021-11-15,LA Farmers Markets,Banana,7,7,5,2,24.95
+2021-11-15,LA Farmers Markets,Chocolate,5,8,8,0,39.92
+2021-11-15,LA Farmers Markets,Cinnamon,4,5,5,0,24.95
+2021-11-15,LA Farmers Markets,Strawberry,9,9,8,1,39.92
+2021-11-15,LA Farmers Markets,Taro,4,4,4,0,19.96
+2021-11-15,LA Farmers Markets,Thai Tea,10,10,7,3,34.93
+2021-11-15,LokelsOnly,Banana,1,1,1,0,4.99
+2021-11-15,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-11-15,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-11-15,SB Farmers Markets,Chocolate,3,5,5,0,24.95
+2021-11-15,SB Farmers Markets,Cinnamon,3,3,3,0,14.97
+2021-11-15,SB Farmers Markets,Strawberry,3,4,4,0,19.96
+2021-11-15,SB Farmers Markets,Thai Tea,3,3,3,0,14.97
+2021-11-15,UCLA Duffl,Chocolate,3,3,2,1,9.98
+2021-11-15,UCLA Duffl,Cinnamon,4,4,3,1,14.97
+2021-11-15,UCLA Duffl,Strawberry,11,11,8,3,39.92
+2021-11-15,UCLA Duffl,Taro,2,2,1,1,4.99
+2021-11-15,UCLA Duffl,Thai Tea,6,6,4,2,19.96
+2021-11-15,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2021-11-15,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2021-11-15,UCSB Duffl,Thai Tea,3,3,3,0,14.97
+2021-11-15,Uber Eats,Strawberry,4,4,3,1,14.97
+2021-11-15,Uber Eats,Thai Tea,1,1,1,0,4.99
+2021-11-22,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2021-11-22,Berkeley Farmers Market,Strawberry,4,4,4,0,19.96
+2021-11-22,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2021-11-22,Campus Partners,Banana,3,3,2,1,9.98
+2021-11-22,Campus Partners,Chocolate,4,4,3,1,14.97
+2021-11-22,Campus Partners,Cinnamon,7,7,5,2,24.95
+2021-11-22,Campus Partners,Strawberry,2,2,2,0,9.98
+2021-11-22,Campus Partners,Taro,2,2,2,0,9.98
+2021-11-22,LA Caravan,Banana,1,1,1,0,4.99
+2021-11-22,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-11-22,LA Farmers Markets,Chocolate,10,10,9,1,44.91
+2021-11-22,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-11-22,LA Farmers Markets,Strawberry,7,9,9,0,44.91
+2021-11-22,LA Farmers Markets,Taro,1,1,1,0,4.99
+2021-11-22,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-11-22,LokelsOnly,Banana,1,1,1,0,4.99
+2021-11-22,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-11-22,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-11-22,SB Farmers Markets,Banana,3,3,3,0,14.97
+2021-11-22,SB Farmers Markets,Chocolate,5,5,4,1,19.96
+2021-11-22,SB Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-11-22,SB Farmers Markets,Strawberry,3,3,2,1,9.98
+2021-11-22,SB Farmers Markets,Taro,1,1,1,0,4.99
+2021-11-22,SB Farmers Markets,Thai Tea,2,2,2,0,9.98
+2021-11-22,UCLA Duffl,Banana,8,8,5,3,24.95
+2021-11-22,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-11-22,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2021-11-22,UCLA Duffl,Strawberry,5,5,4,1,19.96
+2021-11-22,UCLA Duffl,Taro,4,5,5,0,24.95
+2021-11-22,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-11-22,UCSB Duffl,Banana,1,1,1,0,4.99
+2021-11-22,UCSB Duffl,Chocolate,5,5,3,2,14.97
+2021-11-22,UCSB Duffl,Cinnamon,5,5,4,1,19.96
+2021-11-22,Uber Eats,Banana,2,2,2,0,9.98
+2021-11-22,Uber Eats,Cinnamon,1,1,1,0,4.99
+2021-11-22,Uber Eats,Strawberry,1,1,1,0,4.99
+2021-11-29,Berkeley Farmers Market,Banana,2,2,2,0,9.98
+2021-11-29,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2021-11-29,Berkeley Farmers Market,Cinnamon,3,3,3,0,14.97
+2021-11-29,Berkeley Farmers Market,Strawberry,4,4,3,1,14.97
+2021-11-29,Berkeley Farmers Market,Thai Tea,1,1,1,0,4.99
+2021-11-29,Campus Partners,Banana,1,1,1,0,4.99
+2021-11-29,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-11-29,Campus Partners,Cinnamon,1,2,2,0,9.98
+2021-11-29,Campus Partners,Strawberry,3,3,3,0,14.97
+2021-11-29,Campus Partners,Taro,2,2,2,0,9.98
+2021-11-29,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-11-29,LA Farmers Markets,Banana,5,5,3,2,14.97
+2021-11-29,LA Farmers Markets,Chocolate,15,15,10,5,49.9
+2021-11-29,LA Farmers Markets,Cinnamon,3,3,3,0,14.97
+2021-11-29,LA Farmers Markets,Strawberry,9,9,8,1,39.92
+2021-11-29,LA Farmers Markets,Taro,1,1,1,0,4.99
+2021-11-29,LokelsOnly,Chocolate,1,1,1,0,4.99
+2021-11-29,LokelsOnly,Cinnamon,4,4,3,1,14.97
+2021-11-29,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-11-29,SB Farmers Markets,Banana,1,1,1,0,4.99
+2021-11-29,SB Farmers Markets,Chocolate,6,7,7,0,34.93
+2021-11-29,SB Farmers Markets,Cinnamon,2,2,1,1,4.99
+2021-11-29,SB Farmers Markets,Strawberry,4,5,5,0,24.95
+2021-11-29,SB Farmers Markets,Taro,2,2,2,0,9.98
+2021-11-29,SB Farmers Markets,Thai Tea,2,3,3,0,14.97
+2021-11-29,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-11-29,UCLA Duffl,Chocolate,4,4,3,1,14.97
+2021-11-29,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2021-11-29,UCLA Duffl,Taro,1,1,1,0,4.99
+2021-11-29,UCLA Duffl,Thai Tea,4,4,4,0,19.96
+2021-11-29,UCSB Duffl,Chocolate,2,2,2,0,9.98
+2021-11-29,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2021-11-29,Uber Eats,Banana,1,1,1,0,4.99
+2021-11-29,Uber Eats,Chocolate,2,2,2,0,9.98
+2021-12-06,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2021-12-06,Berkeley Farmers Market,Cinnamon,1,1,1,0,4.99
+2021-12-06,Berkeley Farmers Market,Strawberry,1,1,1,0,4.99
+2021-12-06,Berkeley Farmers Market,Taro,5,5,4,1,19.96
+2021-12-06,Berkeley Farmers Market,Thai Tea,1,1,1,0,4.99
+2021-12-06,Campus Partners,Banana,4,4,3,1,14.97
+2021-12-06,Campus Partners,Chocolate,2,2,2,0,9.98
+2021-12-06,Campus Partners,Cinnamon,2,2,2,0,9.98
+2021-12-06,Campus Partners,Strawberry,3,3,2,1,9.98
+2021-12-06,Campus Partners,Taro,3,3,2,1,9.98
+2021-12-06,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-12-06,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-12-06,LA Farmers Markets,Chocolate,6,6,6,0,29.94
+2021-12-06,LA Farmers Markets,Cinnamon,14,14,10,4,49.9
+2021-12-06,LA Farmers Markets,Strawberry,7,7,5,2,24.95
+2021-12-06,LA Farmers Markets,Taro,1,2,2,0,9.98
+2021-12-06,LA Farmers Markets,Thai Tea,7,7,7,0,34.93
+2021-12-06,LokelsOnly,Chocolate,2,2,2,0,9.98
+2021-12-06,LokelsOnly,Strawberry,1,1,1,0,4.99
+2021-12-06,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-12-06,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-12-06,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-12-06,SB Farmers Markets,Strawberry,5,5,4,1,19.96
+2021-12-06,SB Farmers Markets,Taro,1,1,1,0,4.99
+2021-12-06,SB Farmers Markets,Thai Tea,2,2,2,0,9.98
+2021-12-06,UCLA Duffl,Banana,2,2,2,0,9.98
+2021-12-06,UCLA Duffl,Chocolate,10,10,9,1,44.91
+2021-12-06,UCLA Duffl,Cinnamon,6,6,6,0,29.94
+2021-12-06,UCLA Duffl,Strawberry,8,8,6,2,29.94
+2021-12-06,UCLA Duffl,Taro,1,1,1,0,4.99
+2021-12-06,UCLA Duffl,Thai Tea,3,3,2,1,9.98
+2021-12-06,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2021-12-06,UCSB Duffl,Taro,1,1,1,0,4.99
+2021-12-06,UCSB Duffl,Thai Tea,2,2,2,0,9.98
+2021-12-06,Uber Eats,Chocolate,1,1,1,0,4.99
+2021-12-06,Uber Eats,Taro,1,1,1,0,4.99
+2021-12-13,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2021-12-13,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2021-12-13,Berkeley Farmers Market,Strawberry,2,2,1,1,4.99
+2021-12-13,Berkeley Farmers Market,Thai Tea,3,3,2,1,9.98
+2021-12-13,Campus Partners,Banana,3,3,2,1,9.98
+2021-12-13,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-12-13,Campus Partners,Cinnamon,1,1,1,0,4.99
+2021-12-13,Campus Partners,Strawberry,4,4,3,1,14.97
+2021-12-13,LA Caravan,Strawberry,1,1,1,0,4.99
+2021-12-13,LA Caravan,Thai Tea,1,1,1,0,4.99
+2021-12-13,LA Farmers Markets,Chocolate,5,5,4,1,19.96
+2021-12-13,LA Farmers Markets,Cinnamon,4,4,3,1,14.97
+2021-12-13,LA Farmers Markets,Strawberry,5,5,4,1,19.96
+2021-12-13,LA Farmers Markets,Taro,1,1,1,0,4.99
+2021-12-13,LA Farmers Markets,Thai Tea,4,4,3,1,14.97
+2021-12-13,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-12-13,LokelsOnly,Strawberry,3,3,2,1,9.98
+2021-12-13,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-12-13,SB Farmers Markets,Strawberry,1,1,1,0,4.99
+2021-12-13,UCLA Duffl,Chocolate,4,4,3,1,14.97
+2021-12-13,UCLA Duffl,Cinnamon,3,3,2,1,9.98
+2021-12-13,UCLA Duffl,Strawberry,4,4,4,0,19.96
+2021-12-13,UCLA Duffl,Taro,1,1,1,0,4.99
+2021-12-13,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2021-12-13,Uber Eats,Chocolate,1,1,1,0,4.99
+2021-12-13,Uber Eats,Cinnamon,1,1,1,0,4.99
+2021-12-13,Uber Eats,Strawberry,1,1,1,0,4.99
+2021-12-20,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2021-12-20,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2021-12-20,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-12-20,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-12-20,LA Farmers Markets,Chocolate,3,3,3,0,14.97
+2021-12-20,LA Farmers Markets,Cinnamon,5,5,4,1,19.96
+2021-12-20,LA Farmers Markets,Strawberry,6,6,6,0,29.94
+2021-12-20,LA Farmers Markets,Taro,1,1,1,0,4.99
+2021-12-20,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-12-20,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2021-12-20,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2021-12-20,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2021-12-20,SB Farmers Markets,Strawberry,2,2,2,0,9.98
+2021-12-20,UCLA Duffl,Banana,3,3,2,1,9.98
+2021-12-20,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2021-12-20,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2021-12-20,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2021-12-20,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2021-12-20,UCSB Duffl,Banana,3,3,2,1,9.98
+2021-12-20,UCSB Duffl,Taro,1,1,1,0,4.99
+2021-12-20,UCSB Duffl,Thai Tea,3,3,2,1,9.98
+2021-12-20,Uber Eats,Banana,2,2,1,1,4.99
+2021-12-20,Uber Eats,Chocolate,1,1,1,0,4.99
+2021-12-20,Uber Eats,Cinnamon,1,1,1,0,4.99
+2021-12-27,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2021-12-27,Berkeley Farmers Market,Cinnamon,1,1,1,0,4.99
+2021-12-27,Berkeley Farmers Market,Strawberry,2,2,2,0,9.98
+2021-12-27,Berkeley Farmers Market,Thai Tea,1,1,1,0,4.99
+2021-12-27,Campus Partners,Banana,4,4,3,1,14.97
+2021-12-27,Campus Partners,Chocolate,1,1,1,0,4.99
+2021-12-27,Campus Partners,Taro,1,1,1,0,4.99
+2021-12-27,Campus Partners,Thai Tea,1,1,1,0,4.99
+2021-12-27,LA Caravan,Cinnamon,1,1,1,0,4.99
+2021-12-27,LA Caravan,Strawberry,2,2,2,0,9.98
+2021-12-27,LA Caravan,Thai Tea,2,2,2,0,9.98
+2021-12-27,LA Farmers Markets,Banana,1,1,1,0,4.99
+2021-12-27,LA Farmers Markets,Chocolate,6,6,5,1,24.95
+2021-12-27,LA Farmers Markets,Cinnamon,2,2,2,0,9.98
+2021-12-27,LA Farmers Markets,Taro,1,1,1,0,4.99
+2021-12-27,LA Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-12-27,LokelsOnly,Banana,1,1,1,0,4.99
+2021-12-27,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2021-12-27,SB Farmers Markets,Banana,3,3,3,0,14.97
+2021-12-27,SB Farmers Markets,Strawberry,2,2,1,1,4.99
+2021-12-27,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2021-12-27,UCLA Duffl,Banana,1,1,1,0,4.99
+2021-12-27,UCLA Duffl,Chocolate,5,5,5,0,24.95
+2021-12-27,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2021-12-27,UCLA Duffl,Strawberry,2,2,2,0,9.98
+2021-12-27,UCLA Duffl,Thai Tea,2,3,3,0,14.97
+2021-12-27,UCSB Duffl,Banana,2,2,1,1,4.99
+2021-12-27,UCSB Duffl,Taro,1,1,1,0,4.99
+2021-12-27,Uber Eats,Strawberry,1,1,1,0,4.99
+2022-01-03,Berkeley Farmers Market,Chocolate,4,4,3,1,14.97
+2022-01-03,Berkeley Farmers Market,Coffee,1,1,1,0,4.99
+2022-01-03,Berkeley Farmers Market,Strawberry,3,3,2,1,9.98
+2022-01-03,Campus Partners,Banana,1,1,1,0,4.99
+2022-01-03,Campus Partners,Cinnamon,1,1,1,0,4.99
+2022-01-03,Campus Partners,Strawberry,5,5,3,2,14.97
+2022-01-03,Campus Partners,Taro,1,1,1,0,4.99
+2022-01-03,LA Caravan,Banana,1,1,1,0,4.99
+2022-01-03,LA Caravan,Chocolate,1,1,1,0,4.99
+2022-01-03,LA Farmers Markets,Banana,5,5,3,2,14.97
+2022-01-03,LA Farmers Markets,Chocolate,4,4,4,0,19.96
+2022-01-03,LA Farmers Markets,Cinnamon,3,3,2,1,9.98
+2022-01-03,LA Farmers Markets,Strawberry,4,4,4,0,19.96
+2022-01-03,SB Farmers Markets,Banana,1,1,1,0,4.99
+2022-01-03,SB Farmers Markets,Chocolate,1,1,1,0,4.99
+2022-01-03,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2022-01-03,SB Farmers Markets,Strawberry,2,2,2,0,9.98
+2022-01-03,SB Farmers Markets,Thai Tea,3,3,3,0,14.97
+2022-01-03,UCLA Duffl,Banana,1,1,1,0,4.99
+2022-01-03,UCLA Duffl,Chocolate,5,5,3,2,14.97
+2022-01-03,UCLA Duffl,Strawberry,6,6,4,2,19.96
+2022-01-03,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2022-01-03,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2022-01-03,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2022-01-03,UCSB Duffl,Thai Tea,3,3,2,1,9.98
+2022-01-03,Uber Eats,Cinnamon,1,1,1,0,4.99
+2022-01-03,Uber Eats,Strawberry,1,1,1,0,4.99
+2022-01-10,Berkeley Farmers Market,Banana,1,1,1,0,4.99
+2022-01-10,Berkeley Farmers Market,Chocolate,7,7,6,1,29.94
+2022-01-10,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2022-01-10,Berkeley Farmers Market,Strawberry,5,5,4,1,19.96
+2022-01-10,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2022-01-10,Berkeley Farmers Market,Thai Tea,2,2,2,0,9.98
+2022-01-10,Campus Partners,Banana,2,2,2,0,9.98
+2022-01-10,Campus Partners,Chocolate,6,6,5,1,24.95
+2022-01-10,Campus Partners,Cinnamon,1,1,1,0,4.99
+2022-01-10,Campus Partners,Coffee,3,3,2,1,9.98
+2022-01-10,Campus Partners,Strawberry,4,4,4,0,19.96
+2022-01-10,Campus Partners,Taro,1,1,1,0,4.99
+2022-01-10,LA Caravan,Chocolate,2,4,4,0,19.96
+2022-01-10,LA Caravan,Strawberry,1,1,1,0,4.99
+2022-01-10,LA Caravan,Thai Tea,4,4,3,1,14.97
+2022-01-10,LA Farmers Markets,Banana,1,1,1,0,4.99
+2022-01-10,LA Farmers Markets,Chocolate,8,11,11,0,54.89
+2022-01-10,LA Farmers Markets,Cinnamon,7,8,8,0,39.92
+2022-01-10,LA Farmers Markets,Coffee,1,1,1,0,4.99
+2022-01-10,LA Farmers Markets,Strawberry,9,9,9,0,44.91
+2022-01-10,LA Farmers Markets,Taro,1,1,1,0,4.99
+2022-01-10,LA Farmers Markets,Thai Tea,2,2,2,0,9.98
+2022-01-10,LokelsOnly,Banana,1,1,1,0,4.99
+2022-01-10,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2022-01-10,LokelsOnly,Strawberry,1,2,2,0,9.98
+2022-01-10,SB Farmers Markets,Banana,2,2,2,0,9.98
+2022-01-10,SB Farmers Markets,Chocolate,5,5,5,0,24.95
+2022-01-10,SB Farmers Markets,Cinnamon,2,2,2,0,9.98
+2022-01-10,SB Farmers Markets,Strawberry,9,9,6,3,29.94
+2022-01-10,SB Farmers Markets,Thai Tea,2,2,2,0,9.98
+2022-01-10,UCLA Duffl,Banana,3,3,2,1,9.98
+2022-01-10,UCLA Duffl,Chocolate,5,5,4,1,19.96
+2022-01-10,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2022-01-10,UCLA Duffl,Strawberry,10,10,9,1,44.91
+2022-01-10,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2022-01-10,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2022-01-10,UCSB Duffl,Cinnamon,3,3,3,0,14.97
+2022-01-10,UCSB Duffl,Strawberry,5,5,4,1,19.96
+2022-01-10,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2022-01-10,Uber Eats,Banana,1,1,1,0,4.99
+2022-01-10,Uber Eats,Chocolate,1,1,1,0,4.99
+2022-01-10,Uber Eats,Cinnamon,2,2,2,0,9.98
+2022-01-10,Uber Eats,Strawberry,1,1,1,0,4.99
+2022-01-10,Uber Eats,Thai Tea,3,3,2,1,9.98
+2022-01-17,Berkeley Farmers Market,Banana,3,3,2,1,9.98
+2022-01-17,Berkeley Farmers Market,Chocolate,2,2,2,0,9.98
+2022-01-17,Berkeley Farmers Market,Cinnamon,1,1,1,0,4.99
+2022-01-17,Berkeley Farmers Market,Strawberry,1,1,1,0,4.99
+2022-01-17,Berkeley Farmers Market,Thai Tea,1,1,1,0,4.99
+2022-01-17,Campus Partners,Chocolate,3,3,3,0,14.97
+2022-01-17,Campus Partners,Cinnamon,3,3,3,0,14.97
+2022-01-17,Campus Partners,Coffee,2,2,2,0,9.98
+2022-01-17,Campus Partners,Strawberry,3,3,3,0,14.97
+2022-01-17,Campus Partners,Thai Tea,4,4,4,0,19.96
+2022-01-17,LA Caravan,Banana,2,2,2,0,9.98
+2022-01-17,LA Caravan,Chocolate,3,3,3,0,14.97
+2022-01-17,LA Caravan,Cinnamon,1,1,1,0,4.99
+2022-01-17,LA Caravan,Strawberry,4,4,3,1,14.97
+2022-01-17,LA Caravan,Thai Tea,1,1,1,0,4.99
+2022-01-17,LA Farmers Markets,Banana,6,6,5,1,24.95
+2022-01-17,LA Farmers Markets,Chocolate,14,14,11,3,54.89
+2022-01-17,LA Farmers Markets,Cinnamon,8,9,9,0,44.91
+2022-01-17,LA Farmers Markets,Strawberry,7,10,10,0,49.9
+2022-01-17,LA Farmers Markets,Thai Tea,4,5,5,0,24.95
+2022-01-17,LokelsOnly,Taro,1,1,1,0,4.99
+2022-01-17,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2022-01-17,SB Farmers Markets,Banana,2,2,1,1,4.99
+2022-01-17,SB Farmers Markets,Chocolate,3,4,4,0,19.96
+2022-01-17,SB Farmers Markets,Cinnamon,2,2,2,0,9.98
+2022-01-17,SB Farmers Markets,Strawberry,6,6,5,1,24.95
+2022-01-17,SB Farmers Markets,Thai Tea,4,4,3,1,14.97
+2022-01-17,UCLA Duffl,Banana,2,2,2,0,9.98
+2022-01-17,UCLA Duffl,Chocolate,5,8,8,0,39.92
+2022-01-17,UCLA Duffl,Cinnamon,3,3,2,1,9.98
+2022-01-17,UCLA Duffl,Coffee,3,3,3,0,14.97
+2022-01-17,UCLA Duffl,Strawberry,5,6,6,0,29.94
+2022-01-17,UCLA Duffl,Thai Tea,3,3,3,0,14.97
+2022-01-17,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2022-01-17,UCSB Duffl,Coffee,2,2,2,0,9.98
+2022-01-17,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2022-01-17,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2022-01-17,Uber Eats,Banana,1,1,1,0,4.99
+2022-01-17,Uber Eats,Chocolate,1,1,1,0,4.99
+2022-01-17,Uber Eats,Thai Tea,1,1,1,0,4.99
+2022-01-24,Berkeley Farmers Market,Banana,2,4,4,0,19.96
+2022-01-24,Berkeley Farmers Market,Chocolate,1,1,1,0,4.99
+2022-01-24,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2022-01-24,Berkeley Farmers Market,Strawberry,1,1,1,0,4.99
+2022-01-24,Campus Partners,Banana,3,3,2,1,9.98
+2022-01-24,Campus Partners,Cinnamon,4,4,3,1,14.97
+2022-01-24,Campus Partners,Strawberry,2,2,2,0,9.98
+2022-01-24,Campus Partners,Taro,1,1,1,0,4.99
+2022-01-24,Campus Partners,Thai Tea,4,4,3,1,14.97
+2022-01-24,LA Caravan,Chocolate,2,2,2,0,9.98
+2022-01-24,LA Caravan,Cinnamon,1,1,1,0,4.99
+2022-01-24,LA Caravan,Strawberry,3,3,2,1,9.98
+2022-01-24,LA Caravan,Taro,1,1,1,0,4.99
+2022-01-24,LA Caravan,Thai Tea,3,3,3,0,14.97
+2022-01-24,LA Farmers Markets,Banana,5,5,4,1,19.96
+2022-01-24,LA Farmers Markets,Chocolate,12,12,10,2,49.9
+2022-01-24,LA Farmers Markets,Cinnamon,3,3,3,0,14.97
+2022-01-24,LA Farmers Markets,Coffee,4,4,3,1,14.97
+2022-01-24,LA Farmers Markets,Strawberry,13,13,11,2,54.89
+2022-01-24,LA Farmers Markets,Taro,2,2,2,0,9.98
+2022-01-24,LA Farmers Markets,Thai Tea,6,6,6,0,29.94
+2022-01-24,LokelsOnly,Chocolate,1,1,1,0,4.99
+2022-01-24,LokelsOnly,Coffee,1,1,1,0,4.99
+2022-01-24,LokelsOnly,Strawberry,1,1,1,0,4.99
+2022-01-24,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2022-01-24,SB Farmers Markets,Banana,2,3,3,0,14.97
+2022-01-24,SB Farmers Markets,Chocolate,2,2,2,0,9.98
+2022-01-24,SB Farmers Markets,Cinnamon,2,2,2,0,9.98
+2022-01-24,SB Farmers Markets,Coffee,1,1,1,0,4.99
+2022-01-24,SB Farmers Markets,Strawberry,3,4,4,0,19.96
+2022-01-24,UCLA Duffl,Banana,4,4,4,0,19.96
+2022-01-24,UCLA Duffl,Chocolate,4,4,4,0,19.96
+2022-01-24,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2022-01-24,UCLA Duffl,Strawberry,4,4,4,0,19.96
+2022-01-24,UCLA Duffl,Taro,5,5,3,2,14.97
+2022-01-24,UCLA Duffl,Thai Tea,4,4,3,1,14.97
+2022-01-24,UCSB Duffl,Banana,2,2,2,0,9.98
+2022-01-24,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2022-01-24,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2022-01-24,UCSB Duffl,Coffee,1,1,1,0,4.99
+2022-01-24,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2022-01-24,UCSB Duffl,Taro,2,2,1,1,4.99
+2022-01-24,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2022-01-24,Uber Eats,Banana,1,1,1,0,4.99
+2022-01-24,Uber Eats,Cinnamon,3,3,2,1,9.98
+2022-01-24,Uber Eats,Strawberry,1,1,1,0,4.99
+2022-01-24,Uber Eats,Taro,1,1,1,0,4.99
+2022-01-31,Berkeley Farmers Market,Banana,2,2,2,0,9.98
+2022-01-31,Berkeley Farmers Market,Chocolate,7,7,5,2,24.95
+2022-01-31,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2022-01-31,Berkeley Farmers Market,Coffee,5,5,4,1,19.96
+2022-01-31,Berkeley Farmers Market,Strawberry,4,4,4,0,19.96
+2022-01-31,Campus Partners,Banana,2,2,2,0,9.98
+2022-01-31,Campus Partners,Chocolate,2,3,3,0,14.97
+2022-01-31,Campus Partners,Cinnamon,3,3,3,0,14.97
+2022-01-31,Campus Partners,Coffee,1,1,1,0,4.99
+2022-01-31,Campus Partners,Strawberry,5,5,4,1,19.96
+2022-01-31,Campus Partners,Taro,5,5,3,2,14.97
+2022-01-31,Campus Partners,Thai Tea,2,2,2,0,9.98
+2022-01-31,LA Caravan,Banana,2,2,2,0,9.98
+2022-01-31,LA Caravan,Chocolate,2,2,2,0,9.98
+2022-01-31,LA Caravan,Cinnamon,2,2,2,0,9.98
+2022-01-31,LA Caravan,Taro,1,1,1,0,4.99
+2022-01-31,LA Farmers Markets,Banana,5,5,4,1,19.96
+2022-01-31,LA Farmers Markets,Chocolate,8,9,9,0,44.91
+2022-01-31,LA Farmers Markets,Cinnamon,5,5,4,1,19.96
+2022-01-31,LA Farmers Markets,Coffee,2,2,1,1,4.99
+2022-01-31,LA Farmers Markets,Strawberry,7,7,6,1,29.94
+2022-01-31,LA Farmers Markets,Taro,3,3,2,1,9.98
+2022-01-31,LA Farmers Markets,Thai Tea,3,4,4,0,19.96
+2022-01-31,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2022-01-31,SB Farmers Markets,Banana,1,1,1,0,4.99
+2022-01-31,SB Farmers Markets,Chocolate,2,2,2,0,9.98
+2022-01-31,SB Farmers Markets,Cinnamon,1,1,1,0,4.99
+2022-01-31,SB Farmers Markets,Strawberry,9,9,7,2,34.93
+2022-01-31,SB Farmers Markets,Taro,1,1,1,0,4.99
+2022-01-31,SB Farmers Markets,Thai Tea,3,3,2,1,9.98
+2022-01-31,UCLA Duffl,Banana,4,4,3,1,14.97
+2022-01-31,UCLA Duffl,Chocolate,6,6,4,2,19.96
+2022-01-31,UCLA Duffl,Cinnamon,4,4,4,0,19.96
+2022-01-31,UCLA Duffl,Strawberry,3,3,2,1,9.98
+2022-01-31,UCLA Duffl,Thai Tea,4,4,4,0,19.96
+2022-01-31,UCSB Duffl,Banana,4,4,3,1,14.97
+2022-01-31,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2022-01-31,UCSB Duffl,Coffee,1,1,1,0,4.99
+2022-01-31,UCSB Duffl,Thai Tea,6,6,4,2,19.96
+2022-01-31,Uber Eats,Banana,1,1,1,0,4.99
+2022-01-31,Uber Eats,Strawberry,1,1,1,0,4.99
+2022-01-31,Uber Eats,Thai Tea,1,1,1,0,4.99
+2022-02-07,Berkeley Farmers Market,Banana,1,1,1,0,4.99
+2022-02-07,Berkeley Farmers Market,Chocolate,2,2,2,0,9.98
+2022-02-07,Berkeley Farmers Market,Cinnamon,2,3,3,0,14.97
+2022-02-07,Berkeley Farmers Market,Strawberry,4,4,3,1,14.97
+2022-02-07,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2022-02-07,Berkeley Farmers Market,Thai Tea,2,2,2,0,9.98
+2022-02-07,Campus Partners,Banana,1,1,1,0,4.99
+2022-02-07,Campus Partners,Chocolate,4,4,3,1,14.97
+2022-02-07,Campus Partners,Cinnamon,5,5,4,1,19.96
+2022-02-07,Campus Partners,Strawberry,2,2,2,0,9.98
+2022-02-07,LA Caravan,Banana,1,1,1,0,4.99
+2022-02-07,LA Caravan,Chocolate,4,6,6,0,29.94
+2022-02-07,LA Caravan,Cinnamon,1,1,1,0,4.99
+2022-02-07,LA Caravan,Thai Tea,2,2,2,0,9.98
+2022-02-07,LA Farmers Markets,Banana,5,5,3,2,14.97
+2022-02-07,LA Farmers Markets,Chocolate,13,13,8,5,39.92
+2022-02-07,LA Farmers Markets,Cinnamon,12,12,11,1,54.89
+2022-02-07,LA Farmers Markets,Coffee,1,1,1,0,4.99
+2022-02-07,LA Farmers Markets,Strawberry,5,5,5,0,24.95
+2022-02-07,LA Farmers Markets,Taro,1,1,1,0,4.99
+2022-02-07,LA Farmers Markets,Thai Tea,2,2,2,0,9.98
+2022-02-07,LokelsOnly,Chocolate,1,1,1,0,4.99
+2022-02-07,LokelsOnly,Taro,1,1,1,0,4.99
+2022-02-07,SB Farmers Markets,Banana,2,2,2,0,9.98
+2022-02-07,SB Farmers Markets,Chocolate,2,2,2,0,9.98
+2022-02-07,SB Farmers Markets,Cinnamon,2,3,3,0,14.97
+2022-02-07,SB Farmers Markets,Strawberry,6,6,4,2,19.96
+2022-02-07,SB Farmers Markets,Taro,1,2,2,0,9.98
+2022-02-07,SB Farmers Markets,Thai Tea,3,3,2,1,9.98
+2022-02-07,UCLA Duffl,Banana,6,6,4,2,19.96
+2022-02-07,UCLA Duffl,Chocolate,1,1,1,0,4.99
+2022-02-07,UCLA Duffl,Cinnamon,3,3,2,1,9.98
+2022-02-07,UCLA Duffl,Strawberry,5,5,4,1,19.96
+2022-02-07,UCLA Duffl,Taro,4,4,3,1,14.97
+2022-02-07,UCLA Duffl,Thai Tea,3,3,2,1,9.98
+2022-02-07,UCSB Duffl,Banana,1,1,1,0,4.99
+2022-02-07,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2022-02-07,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2022-02-07,UCSB Duffl,Coffee,1,1,1,0,4.99
+2022-02-07,Uber Eats,Chocolate,4,4,3,1,14.97
+2022-02-07,Uber Eats,Cinnamon,1,1,1,0,4.99
+2022-02-07,Uber Eats,Strawberry,1,1,1,0,4.99
+2022-02-07,Uber Eats,Taro,1,1,1,0,4.99
+2022-02-07,Uber Eats,Thai Tea,2,2,2,0,9.98
+2022-02-14,Berkeley Farmers Market,Banana,2,2,2,0,9.98
+2022-02-14,Berkeley Farmers Market,Strawberry,1,1,1,0,4.99
+2022-02-14,Berkeley Farmers Market,Thai Tea,3,4,4,0,19.96
+2022-02-14,Campus Partners,Banana,1,1,1,0,4.99
+2022-02-14,Campus Partners,Chocolate,1,1,1,0,4.99
+2022-02-14,Campus Partners,Cinnamon,1,1,1,0,4.99
+2022-02-14,Campus Partners,Strawberry,3,4,4,0,19.96
+2022-02-14,Campus Partners,Taro,3,3,2,1,9.98
+2022-02-14,Campus Partners,Thai Tea,4,4,4,0,19.96
+2022-02-14,LA Caravan,Cinnamon,1,1,1,0,4.99
+2022-02-14,LA Caravan,Strawberry,1,1,1,0,4.99
+2022-02-14,LA Farmers Markets,Banana,6,6,5,1,24.95
+2022-02-14,LA Farmers Markets,Chocolate,5,7,7,0,34.93
+2022-02-14,LA Farmers Markets,Cinnamon,7,10,10,0,49.9
+2022-02-14,LA Farmers Markets,Strawberry,8,8,7,1,34.93
+2022-02-14,LA Farmers Markets,Taro,1,2,2,0,9.98
+2022-02-14,LA Farmers Markets,Thai Tea,3,3,3,0,14.97
+2022-02-14,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2022-02-14,LokelsOnly,Thai Tea,5,5,4,1,19.96
+2022-02-14,SB Farmers Markets,Banana,2,2,2,0,9.98
+2022-02-14,SB Farmers Markets,Cinnamon,4,4,3,1,14.97
+2022-02-14,SB Farmers Markets,Strawberry,9,9,7,2,34.93
+2022-02-14,SB Farmers Markets,Taro,2,2,1,1,4.99
+2022-02-14,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2022-02-14,UCLA Duffl,Banana,3,3,2,1,9.98
+2022-02-14,UCLA Duffl,Chocolate,7,7,6,1,29.94
+2022-02-14,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2022-02-14,UCLA Duffl,Coffee,2,2,2,0,9.98
+2022-02-14,UCLA Duffl,Strawberry,1,1,1,0,4.99
+2022-02-14,UCSB Duffl,Banana,0,1,1,0,4.99
+2022-02-14,UCSB Duffl,Chocolate,2,2,2,0,9.98
+2022-02-14,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2022-02-14,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2022-02-14,Uber Eats,Banana,1,1,1,0,4.99
+2022-02-14,Uber Eats,Chocolate,2,2,2,0,9.98
+2022-02-14,Uber Eats,Strawberry,4,4,3,1,14.97
+2022-02-21,Berkeley Farmers Market,Chocolate,4,4,4,0,19.96
+2022-02-21,Berkeley Farmers Market,Cinnamon,4,4,3,1,14.97
+2022-02-21,Berkeley Farmers Market,Strawberry,1,1,1,0,4.99
+2022-02-21,Berkeley Farmers Market,Thai Tea,4,4,3,1,14.97
+2022-02-21,Campus Partners,Banana,1,1,1,0,4.99
+2022-02-21,Campus Partners,Chocolate,4,4,3,1,14.97
+2022-02-21,Campus Partners,Cinnamon,8,8,6,2,29.94
+2022-02-21,Campus Partners,Coffee,2,2,2,0,9.98
+2022-02-21,Campus Partners,Strawberry,2,2,2,0,9.98
+2022-02-21,Campus Partners,Taro,1,1,1,0,4.99
+2022-02-21,Campus Partners,Thai Tea,4,4,3,1,14.97
+2022-02-21,LA Caravan,Banana,1,1,1,0,4.99
+2022-02-21,LA Caravan,Chocolate,4,4,2,2,9.98
+2022-02-21,LA Caravan,Cinnamon,2,2,2,0,9.98
+2022-02-21,LA Caravan,Taro,3,3,2,1,9.98
+2022-02-21,LA Caravan,Thai Tea,1,1,1,0,4.99
+2022-02-21,LA Farmers Markets,Banana,5,5,4,1,19.96
+2022-02-21,LA Farmers Markets,Chocolate,9,9,7,2,34.93
+2022-02-21,LA Farmers Markets,Cinnamon,7,7,6,1,29.94
+2022-02-21,LA Farmers Markets,Coffee,2,2,2,0,9.98
+2022-02-21,LA Farmers Markets,Strawberry,9,9,7,2,34.93
+2022-02-21,LA Farmers Markets,Taro,7,7,5,2,24.95
+2022-02-21,LA Farmers Markets,Thai Tea,8,8,6,2,29.94
+2022-02-21,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2022-02-21,SB Farmers Markets,Banana,2,3,3,0,14.97
+2022-02-21,SB Farmers Markets,Chocolate,7,7,7,0,34.93
+2022-02-21,SB Farmers Markets,Cinnamon,3,3,2,1,9.98
+2022-02-21,SB Farmers Markets,Coffee,2,2,2,0,9.98
+2022-02-21,SB Farmers Markets,Strawberry,2,2,2,0,9.98
+2022-02-21,SB Farmers Markets,Taro,2,2,2,0,9.98
+2022-02-21,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2022-02-21,UCLA Duffl,Banana,1,1,1,0,4.99
+2022-02-21,UCLA Duffl,Chocolate,2,3,3,0,14.97
+2022-02-21,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2022-02-21,UCLA Duffl,Coffee,1,1,1,0,4.99
+2022-02-21,UCLA Duffl,Strawberry,6,6,4,2,19.96
+2022-02-21,UCLA Duffl,Taro,1,1,1,0,4.99
+2022-02-21,UCLA Duffl,Thai Tea,6,6,6,0,29.94
+2022-02-21,UCSB Duffl,Banana,1,1,1,0,4.99
+2022-02-21,UCSB Duffl,Chocolate,3,3,2,1,9.98
+2022-02-21,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2022-02-21,UCSB Duffl,Coffee,1,1,1,0,4.99
+2022-02-21,UCSB Duffl,Strawberry,1,1,1,0,4.99
+2022-02-21,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2022-02-21,Uber Eats,Chocolate,1,1,1,0,4.99
+2022-02-21,Uber Eats,Coffee,1,1,1,0,4.99
+2022-02-21,Uber Eats,Strawberry,4,4,4,0,19.96
+2022-02-21,Uber Eats,Thai Tea,1,1,1,0,4.99
+2022-02-28,Berkeley Farmers Market,Banana,1,1,1,0,4.99
+2022-02-28,Berkeley Farmers Market,Chocolate,7,7,5,2,24.95
+2022-02-28,Berkeley Farmers Market,Cinnamon,2,2,1,1,4.99
+2022-02-28,Berkeley Farmers Market,Strawberry,2,3,3,0,14.97
+2022-02-28,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2022-02-28,Berkeley Farmers Market,Thai Tea,2,2,2,0,9.98
+2022-02-28,Campus Partners,Chocolate,1,1,1,0,4.99
+2022-02-28,Campus Partners,Cinnamon,4,4,3,1,14.97
+2022-02-28,Campus Partners,Coffee,2,2,2,0,9.98
+2022-02-28,Campus Partners,Strawberry,4,4,3,1,14.97
+2022-02-28,Campus Partners,Taro,2,2,2,0,9.98
+2022-02-28,Campus Partners,Thai Tea,1,1,1,0,4.99
+2022-02-28,LA Caravan,Banana,1,1,1,0,4.99
+2022-02-28,LA Caravan,Chocolate,7,7,7,0,34.93
+2022-02-28,LA Caravan,Cinnamon,1,2,2,0,9.98
+2022-02-28,LA Caravan,Strawberry,2,2,2,0,9.98
+2022-02-28,LA Caravan,Taro,1,1,1,0,4.99
+2022-02-28,LA Caravan,Thai Tea,2,2,2,0,9.98
+2022-02-28,LA Farmers Markets,Banana,9,9,9,0,44.91
+2022-02-28,LA Farmers Markets,Chocolate,4,6,6,0,29.94
+2022-02-28,LA Farmers Markets,Cinnamon,8,9,9,0,44.91
+2022-02-28,LA Farmers Markets,Coffee,1,1,1,0,4.99
+2022-02-28,LA Farmers Markets,Strawberry,14,14,10,4,49.9
+2022-02-28,LA Farmers Markets,Taro,2,2,2,0,9.98
+2022-02-28,LA Farmers Markets,Thai Tea,2,4,4,0,19.96
+2022-02-28,LokelsOnly,Banana,1,1,1,0,4.99
+2022-02-28,LokelsOnly,Thai Tea,3,3,2,1,9.98
+2022-02-28,SB Farmers Markets,Banana,5,5,4,1,19.96
+2022-02-28,SB Farmers Markets,Chocolate,7,7,6,1,29.94
+2022-02-28,SB Farmers Markets,Cinnamon,6,6,5,1,24.95
+2022-02-28,SB Farmers Markets,Coffee,2,2,2,0,9.98
+2022-02-28,SB Farmers Markets,Strawberry,9,9,8,1,39.92
+2022-02-28,UCLA Duffl,Banana,3,3,2,1,9.98
+2022-02-28,UCLA Duffl,Chocolate,11,11,10,1,49.9
+2022-02-28,UCLA Duffl,Cinnamon,7,7,4,3,19.96
+2022-02-28,UCLA Duffl,Strawberry,7,8,8,0,39.92
+2022-02-28,UCLA Duffl,Taro,1,1,1,0,4.99
+2022-02-28,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2022-02-28,UCSB Duffl,Banana,4,4,3,1,14.97
+2022-02-28,UCSB Duffl,Chocolate,2,2,1,1,4.99
+2022-02-28,UCSB Duffl,Coffee,1,1,1,0,4.99
+2022-02-28,UCSB Duffl,Strawberry,3,3,2,1,9.98
+2022-02-28,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2022-02-28,Uber Eats,Banana,3,3,2,1,9.98
+2022-02-28,Uber Eats,Chocolate,5,5,3,2,14.97
+2022-02-28,Uber Eats,Cinnamon,1,1,1,0,4.99
+2022-02-28,Uber Eats,Strawberry,1,1,1,0,4.99
+2022-03-07,Berkeley Farmers Market,Chocolate,4,4,4,0,19.96
+2022-03-07,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2022-03-07,Berkeley Farmers Market,Coffee,1,1,1,0,4.99
+2022-03-07,Berkeley Farmers Market,Strawberry,2,4,4,0,19.96
+2022-03-07,Berkeley Farmers Market,Thai Tea,2,2,2,0,9.98
+2022-03-07,Campus Partners,Chocolate,2,2,2,0,9.98
+2022-03-07,Campus Partners,Cinnamon,7,7,6,1,29.94
+2022-03-07,Campus Partners,Coffee,1,1,1,0,4.99
+2022-03-07,Campus Partners,Strawberry,3,3,3,0,14.97
+2022-03-07,Campus Partners,Taro,1,1,1,0,4.99
+2022-03-07,Campus Partners,Thai Tea,2,2,1,1,4.99
+2022-03-07,LA Caravan,Banana,1,1,1,0,4.99
+2022-03-07,LA Caravan,Chocolate,1,2,2,0,9.98
+2022-03-07,LA Caravan,Cinnamon,2,2,2,0,9.98
+2022-03-07,LA Caravan,Coffee,1,1,1,0,4.99
+2022-03-07,LA Caravan,Strawberry,2,2,2,0,9.98
+2022-03-07,LA Caravan,Taro,2,2,2,0,9.98
+2022-03-07,LA Farmers Markets,Banana,3,3,3,0,14.97
+2022-03-07,LA Farmers Markets,Chocolate,7,7,6,1,29.94
+2022-03-07,LA Farmers Markets,Cinnamon,9,9,7,2,34.93
+2022-03-07,LA Farmers Markets,Coffee,2,2,2,0,9.98
+2022-03-07,LA Farmers Markets,Strawberry,6,6,5,1,24.95
+2022-03-07,LA Farmers Markets,Taro,4,5,5,0,24.95
+2022-03-07,LA Farmers Markets,Thai Tea,11,11,8,3,39.92
+2022-03-07,LokelsOnly,Banana,1,1,1,0,4.99
+2022-03-07,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2022-03-07,SB Farmers Markets,Banana,1,1,1,0,4.99
+2022-03-07,SB Farmers Markets,Chocolate,3,3,3,0,14.97
+2022-03-07,SB Farmers Markets,Cinnamon,3,3,2,1,9.98
+2022-03-07,SB Farmers Markets,Coffee,1,1,1,0,4.99
+2022-03-07,SB Farmers Markets,Strawberry,3,3,3,0,14.97
+2022-03-07,SB Farmers Markets,Thai Tea,6,6,5,1,24.95
+2022-03-07,UCLA Duffl,Banana,1,1,1,0,4.99
+2022-03-07,UCLA Duffl,Chocolate,5,5,4,1,19.96
+2022-03-07,UCLA Duffl,Cinnamon,1,1,1,0,4.99
+2022-03-07,UCLA Duffl,Strawberry,4,4,3,1,14.97
+2022-03-07,UCLA Duffl,Thai Tea,6,6,5,1,24.95
+2022-03-07,UCSB Duffl,Chocolate,4,4,3,1,14.97
+2022-03-07,UCSB Duffl,Coffee,1,1,1,0,4.99
+2022-03-07,UCSB Duffl,Strawberry,4,4,3,1,14.97
+2022-03-07,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2022-03-07,Uber Eats,Chocolate,3,3,3,0,14.97
+2022-03-07,Uber Eats,Cinnamon,1,1,1,0,4.99
+2022-03-07,Uber Eats,Strawberry,4,4,4,0,19.96
+2022-03-14,Berkeley Farmers Market,Cinnamon,4,4,3,1,14.97
+2022-03-14,Berkeley Farmers Market,Coffee,1,1,1,0,4.99
+2022-03-14,Berkeley Farmers Market,Strawberry,5,5,4,1,19.96
+2022-03-14,Campus Partners,Banana,3,3,3,0,14.97
+2022-03-14,Campus Partners,Chocolate,6,6,5,1,24.95
+2022-03-14,Campus Partners,Cinnamon,2,2,2,0,9.98
+2022-03-14,Campus Partners,Strawberry,6,6,4,2,19.96
+2022-03-14,Campus Partners,Thai Tea,3,3,3,0,14.97
+2022-03-14,LA Caravan,Banana,3,3,2,1,9.98
+2022-03-14,LA Caravan,Chocolate,1,1,1,0,4.99
+2022-03-14,LA Caravan,Strawberry,1,1,1,0,4.99
+2022-03-14,LA Caravan,Thai Tea,4,4,3,1,14.97
+2022-03-14,LA Farmers Markets,Banana,9,9,6,3,29.94
+2022-03-14,LA Farmers Markets,Chocolate,6,8,8,0,39.92
+2022-03-14,LA Farmers Markets,Cinnamon,7,8,8,0,39.92
+2022-03-14,LA Farmers Markets,Strawberry,4,7,7,0,34.93
+2022-03-14,LA Farmers Markets,Taro,3,3,2,1,9.98
+2022-03-14,LA Farmers Markets,Thai Tea,6,6,5,1,24.95
+2022-03-14,LokelsOnly,Chocolate,1,1,1,0,4.99
+2022-03-14,LokelsOnly,Thai Tea,2,2,2,0,9.98
+2022-03-14,SB Farmers Markets,Banana,1,1,1,0,4.99
+2022-03-14,SB Farmers Markets,Chocolate,9,9,9,0,44.91
+2022-03-14,SB Farmers Markets,Cinnamon,7,7,7,0,34.93
+2022-03-14,SB Farmers Markets,Strawberry,8,8,7,1,34.93
+2022-03-14,SB Farmers Markets,Thai Tea,5,5,4,1,19.96
+2022-03-14,UCLA Duffl,Banana,1,1,1,0,4.99
+2022-03-14,UCLA Duffl,Chocolate,4,4,3,1,14.97
+2022-03-14,UCLA Duffl,Cinnamon,4,4,4,0,19.96
+2022-03-14,UCLA Duffl,Coffee,5,5,4,1,19.96
+2022-03-14,UCLA Duffl,Strawberry,8,8,8,0,39.92
+2022-03-14,UCLA Duffl,Taro,2,2,1,1,4.99
+2022-03-14,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2022-03-14,UCSB Duffl,Banana,2,2,2,0,9.98
+2022-03-14,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2022-03-14,UCSB Duffl,Cinnamon,2,3,3,0,14.97
+2022-03-14,UCSB Duffl,Strawberry,2,2,1,1,4.99
+2022-03-14,UCSB Duffl,Thai Tea,2,2,2,0,9.98
+2022-03-14,Uber Eats,Banana,2,3,3,0,14.97
+2022-03-14,Uber Eats,Coffee,1,1,1,0,4.99
+2022-03-21,Berkeley Farmers Market,Banana,1,1,1,0,4.99
+2022-03-21,Berkeley Farmers Market,Chocolate,3,3,3,0,14.97
+2022-03-21,Berkeley Farmers Market,Cinnamon,3,3,2,1,9.98
+2022-03-21,Berkeley Farmers Market,Strawberry,3,4,4,0,19.96
+2022-03-21,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2022-03-21,Berkeley Farmers Market,Thai Tea,1,1,1,0,4.99
+2022-03-21,Campus Partners,Banana,4,5,5,0,24.95
+2022-03-21,Campus Partners,Chocolate,1,1,1,0,4.99
+2022-03-21,Campus Partners,Cinnamon,3,4,4,0,19.96
+2022-03-21,Campus Partners,Coffee,1,1,1,0,4.99
+2022-03-21,Campus Partners,Strawberry,1,1,1,0,4.99
+2022-03-21,Campus Partners,Thai Tea,2,2,2,0,9.98
+2022-03-21,LA Caravan,Banana,4,4,3,1,14.97
+2022-03-21,LA Caravan,Chocolate,1,1,1,0,4.99
+2022-03-21,LA Caravan,Cinnamon,3,3,2,1,9.98
+2022-03-21,LA Caravan,Strawberry,3,3,2,1,9.98
+2022-03-21,LA Caravan,Thai Tea,1,1,1,0,4.99
+2022-03-21,LA Farmers Markets,Banana,1,2,2,0,9.98
+2022-03-21,LA Farmers Markets,Chocolate,4,4,3,1,14.97
+2022-03-21,LA Farmers Markets,Cinnamon,1,1,1,0,4.99
+2022-03-21,LA Farmers Markets,Strawberry,8,8,6,2,29.94
+2022-03-21,LA Farmers Markets,Taro,9,9,6,3,29.94
+2022-03-21,LA Farmers Markets,Thai Tea,6,6,4,2,19.96
+2022-03-21,LokelsOnly,Coffee,1,1,1,0,4.99
+2022-03-21,LokelsOnly,Strawberry,1,1,1,0,4.99
+2022-03-21,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2022-03-21,SB Farmers Markets,Banana,4,4,3,1,14.97
+2022-03-21,SB Farmers Markets,Chocolate,9,9,5,4,24.95
+2022-03-21,SB Farmers Markets,Cinnamon,4,4,3,1,14.97
+2022-03-21,SB Farmers Markets,Coffee,1,1,1,0,4.99
+2022-03-21,SB Farmers Markets,Strawberry,2,2,2,0,9.98
+2022-03-21,SB Farmers Markets,Taro,2,2,2,0,9.98
+2022-03-21,UCLA Duffl,Banana,2,2,1,1,4.99
+2022-03-21,UCLA Duffl,Chocolate,6,6,5,1,24.95
+2022-03-21,UCLA Duffl,Cinnamon,3,3,3,0,14.97
+2022-03-21,UCLA Duffl,Strawberry,6,6,6,0,29.94
+2022-03-21,UCLA Duffl,Taro,3,3,2,1,9.98
+2022-03-21,UCLA Duffl,Thai Tea,3,3,3,0,14.97
+2022-03-21,UCSB Duffl,Chocolate,1,1,1,0,4.99
+2022-03-21,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2022-03-21,UCSB Duffl,Strawberry,3,3,3,0,14.97
+2022-03-21,UCSB Duffl,Taro,2,2,2,0,9.98
+2022-03-21,UCSB Duffl,Thai Tea,3,3,3,0,14.97
+2022-03-21,Uber Eats,Banana,1,2,2,0,9.98
+2022-03-21,Uber Eats,Chocolate,5,5,3,2,14.97
+2022-03-21,Uber Eats,Cinnamon,3,3,2,1,9.98
+2022-03-21,Uber Eats,Thai Tea,1,1,1,0,4.99
+2022-03-28,Berkeley Farmers Market,Banana,4,4,4,0,19.96
+2022-03-28,Berkeley Farmers Market,Chocolate,2,2,2,0,9.98
+2022-03-28,Berkeley Farmers Market,Cinnamon,3,3,3,0,14.97
+2022-03-28,Berkeley Farmers Market,Strawberry,3,3,2,1,9.98
+2022-03-28,Berkeley Farmers Market,Taro,2,2,2,0,9.98
+2022-03-28,Berkeley Farmers Market,Thai Tea,1,1,1,0,4.99
+2022-03-28,Campus Partners,Banana,2,2,2,0,9.98
+2022-03-28,Campus Partners,Chocolate,1,1,1,0,4.99
+2022-03-28,Campus Partners,Coffee,1,1,1,0,4.99
+2022-03-28,Campus Partners,Strawberry,7,7,5,2,24.95
+2022-03-28,Campus Partners,Taro,2,2,2,0,9.98
+2022-03-28,Campus Partners,Thai Tea,3,3,2,1,9.98
+2022-03-28,LA Caravan,Banana,5,5,3,2,14.97
+2022-03-28,LA Caravan,Chocolate,1,1,1,0,4.99
+2022-03-28,LA Caravan,Taro,4,4,3,1,14.97
+2022-03-28,LA Farmers Markets,Banana,5,5,3,2,14.97
+2022-03-28,LA Farmers Markets,Chocolate,14,14,13,1,64.87
+2022-03-28,LA Farmers Markets,Cinnamon,7,8,8,0,39.92
+2022-03-28,LA Farmers Markets,Coffee,4,4,4,0,19.96
+2022-03-28,LA Farmers Markets,Strawberry,3,3,3,0,14.97
+2022-03-28,LA Farmers Markets,Taro,3,3,2,1,9.98
+2022-03-28,LA Farmers Markets,Thai Tea,8,8,5,3,24.95
+2022-03-28,LokelsOnly,Coffee,2,2,2,0,9.98
+2022-03-28,LokelsOnly,Strawberry,3,3,2,1,9.98
+2022-03-28,SB Farmers Markets,Banana,2,2,2,0,9.98
+2022-03-28,SB Farmers Markets,Chocolate,4,4,4,0,19.96
+2022-03-28,SB Farmers Markets,Cinnamon,3,3,3,0,14.97
+2022-03-28,SB Farmers Markets,Coffee,1,1,1,0,4.99
+2022-03-28,SB Farmers Markets,Strawberry,4,4,3,1,14.97
+2022-03-28,SB Farmers Markets,Thai Tea,2,3,3,0,14.97
+2022-03-28,UCLA Duffl,Banana,3,3,2,1,9.98
+2022-03-28,UCLA Duffl,Chocolate,3,3,3,0,14.97
+2022-03-28,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2022-03-28,UCLA Duffl,Coffee,1,1,1,0,4.99
+2022-03-28,UCLA Duffl,Strawberry,6,6,5,1,24.95
+2022-03-28,UCLA Duffl,Taro,3,3,2,1,9.98
+2022-03-28,UCLA Duffl,Thai Tea,3,3,2,1,9.98
+2022-03-28,UCSB Duffl,Chocolate,5,5,5,0,24.95
+2022-03-28,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2022-03-28,Uber Eats,Banana,2,2,2,0,9.98
+2022-03-28,Uber Eats,Chocolate,3,3,2,1,9.98
+2022-03-28,Uber Eats,Cinnamon,1,1,1,0,4.99
+2022-03-28,Uber Eats,Strawberry,4,4,3,1,14.97
+2022-03-28,Uber Eats,Taro,1,1,1,0,4.99
+2022-04-04,Berkeley Farmers Market,Banana,2,2,2,0,9.98
+2022-04-04,Berkeley Farmers Market,Strawberry,10,10,6,4,29.94
+2022-04-04,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2022-04-04,Berkeley Farmers Market,Thai Tea,2,2,2,0,9.98
+2022-04-04,Campus Partners,Banana,3,4,4,0,19.96
+2022-04-04,Campus Partners,Chocolate,2,2,2,0,9.98
+2022-04-04,Campus Partners,Cinnamon,5,5,5,0,24.95
+2022-04-04,Campus Partners,Coffee,1,1,1,0,4.99
+2022-04-04,Campus Partners,Strawberry,1,2,2,0,9.98
+2022-04-04,Campus Partners,Taro,2,2,1,1,4.99
+2022-04-04,Campus Partners,Thai Tea,4,4,3,1,14.97
+2022-04-04,LA Caravan,Banana,2,2,2,0,9.98
+2022-04-04,LA Caravan,Chocolate,2,2,2,0,9.98
+2022-04-04,LA Caravan,Cinnamon,1,1,1,0,4.99
+2022-04-04,LA Caravan,Coffee,2,2,1,1,4.99
+2022-04-04,LA Caravan,Strawberry,4,4,3,1,14.97
+2022-04-04,LA Caravan,Taro,1,1,1,0,4.99
+2022-04-04,LA Caravan,Thai Tea,1,1,1,0,4.99
+2022-04-04,LA Farmers Markets,Banana,4,5,5,0,24.95
+2022-04-04,LA Farmers Markets,Chocolate,8,8,7,1,34.93
+2022-04-04,LA Farmers Markets,Cinnamon,7,7,7,0,34.93
+2022-04-04,LA Farmers Markets,Strawberry,8,11,11,0,54.89
+2022-04-04,LA Farmers Markets,Taro,5,5,3,2,14.97
+2022-04-04,LA Farmers Markets,Thai Tea,14,14,9,5,44.91
+2022-04-04,LokelsOnly,Chocolate,1,1,1,0,4.99
+2022-04-04,LokelsOnly,Coffee,2,2,1,1,4.99
+2022-04-04,LokelsOnly,Strawberry,6,6,6,0,29.94
+2022-04-04,LokelsOnly,Taro,1,1,1,0,4.99
+2022-04-04,LokelsOnly,Thai Tea,1,1,1,0,4.99
+2022-04-04,SB Farmers Markets,Banana,1,1,1,0,4.99
+2022-04-04,SB Farmers Markets,Chocolate,3,3,2,1,9.98
+2022-04-04,SB Farmers Markets,Cinnamon,2,2,2,0,9.98
+2022-04-04,SB Farmers Markets,Strawberry,8,10,10,0,49.9
+2022-04-04,SB Farmers Markets,Thai Tea,7,7,4,3,19.96
+2022-04-04,UCLA Duffl,Banana,3,4,4,0,19.96
+2022-04-04,UCLA Duffl,Chocolate,2,3,3,0,14.97
+2022-04-04,UCLA Duffl,Cinnamon,5,5,4,1,19.96
+2022-04-04,UCLA Duffl,Strawberry,8,8,5,3,24.95
+2022-04-04,UCLA Duffl,Taro,5,5,5,0,24.95
+2022-04-04,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2022-04-04,UCSB Duffl,Banana,3,3,3,0,14.97
+2022-04-04,UCSB Duffl,Chocolate,2,2,2,0,9.98
+2022-04-04,UCSB Duffl,Cinnamon,2,3,3,0,14.97
+2022-04-04,UCSB Duffl,Taro,1,1,1,0,4.99
+2022-04-04,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2022-04-04,Uber Eats,Chocolate,1,1,1,0,4.99
+2022-04-04,Uber Eats,Cinnamon,2,2,2,0,9.98
+2022-04-04,Uber Eats,Strawberry,3,3,2,1,9.98
+2022-04-04,Uber Eats,Thai Tea,2,2,2,0,9.98
+2022-04-11,Berkeley Farmers Market,Banana,2,2,2,0,9.98
+2022-04-11,Berkeley Farmers Market,Chocolate,3,3,3,0,14.97
+2022-04-11,Berkeley Farmers Market,Cinnamon,6,6,6,0,29.94
+2022-04-11,Berkeley Farmers Market,Strawberry,7,7,6,1,29.94
+2022-04-11,Berkeley Farmers Market,Thai Tea,2,2,2,0,9.98
+2022-04-11,Campus Partners,Banana,4,4,3,1,14.97
+2022-04-11,Campus Partners,Chocolate,4,4,3,1,14.97
+2022-04-11,Campus Partners,Cinnamon,3,3,2,1,9.98
+2022-04-11,Campus Partners,Strawberry,8,8,7,1,34.93
+2022-04-11,Campus Partners,Thai Tea,3,3,2,1,9.98
+2022-04-11,LA Caravan,Banana,2,2,2,0,9.98
+2022-04-11,LA Caravan,Chocolate,3,3,2,1,9.98
+2022-04-11,LA Caravan,Cinnamon,1,1,1,0,4.99
+2022-04-11,LA Caravan,Strawberry,1,1,1,0,4.99
+2022-04-11,LA Caravan,Taro,1,1,1,0,4.99
+2022-04-11,LA Caravan,Thai Tea,4,4,3,1,14.97
+2022-04-11,LA Farmers Markets,Banana,13,13,8,5,39.92
+2022-04-11,LA Farmers Markets,Chocolate,7,7,6,1,29.94
+2022-04-11,LA Farmers Markets,Cinnamon,6,6,5,1,24.95
+2022-04-11,LA Farmers Markets,Coffee,1,1,1,0,4.99
+2022-04-11,LA Farmers Markets,Strawberry,9,11,11,0,54.89
+2022-04-11,LA Farmers Markets,Taro,2,2,2,0,9.98
+2022-04-11,LA Farmers Markets,Thai Tea,12,12,9,3,44.91
+2022-04-11,LokelsOnly,Chocolate,4,4,2,2,9.98
+2022-04-11,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2022-04-11,LokelsOnly,Strawberry,1,1,1,0,4.99
+2022-04-11,LokelsOnly,Thai Tea,2,2,2,0,9.98
+2022-04-11,SB Farmers Markets,Banana,5,5,3,2,14.97
+2022-04-11,SB Farmers Markets,Chocolate,3,3,2,1,9.98
+2022-04-11,SB Farmers Markets,Cinnamon,7,7,6,1,29.94
+2022-04-11,SB Farmers Markets,Coffee,1,1,1,0,4.99
+2022-04-11,SB Farmers Markets,Strawberry,4,4,4,0,19.96
+2022-04-11,SB Farmers Markets,Taro,1,1,1,0,4.99
+2022-04-11,SB Farmers Markets,Thai Tea,2,2,2,0,9.98
+2022-04-11,UCLA Duffl,Banana,8,8,6,2,29.94
+2022-04-11,UCLA Duffl,Chocolate,4,5,5,0,24.95
+2022-04-11,UCLA Duffl,Cinnamon,5,5,4,1,19.96
+2022-04-11,UCLA Duffl,Coffee,1,1,1,0,4.99
+2022-04-11,UCLA Duffl,Taro,2,2,2,0,9.98
+2022-04-11,UCLA Duffl,Thai Tea,6,7,7,0,34.93
+2022-04-11,UCSB Duffl,Banana,1,1,1,0,4.99
+2022-04-11,UCSB Duffl,Chocolate,4,4,4,0,19.96
+2022-04-11,UCSB Duffl,Cinnamon,4,4,3,1,14.97
+2022-04-11,UCSB Duffl,Strawberry,3,3,2,1,9.98
+2022-04-11,Uber Eats,Chocolate,1,2,2,0,9.98
+2022-04-11,Uber Eats,Strawberry,2,2,2,0,9.98
+2022-04-11,Uber Eats,Taro,1,1,1,0,4.99
+2022-04-11,Uber Eats,Thai Tea,1,1,1,0,4.99
+2022-04-18,Berkeley Farmers Market,Banana,1,1,1,0,4.99
+2022-04-18,Berkeley Farmers Market,Chocolate,2,2,1,1,4.99
+2022-04-18,Berkeley Farmers Market,Cinnamon,1,1,1,0,4.99
+2022-04-18,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2022-04-18,Berkeley Farmers Market,Thai Tea,1,2,2,0,9.98
+2022-04-18,Campus Partners,Banana,1,1,1,0,4.99
+2022-04-18,Campus Partners,Chocolate,4,4,4,0,19.96
+2022-04-18,Campus Partners,Strawberry,7,7,4,3,19.96
+2022-04-18,Campus Partners,Taro,4,4,3,1,14.97
+2022-04-18,Campus Partners,Thai Tea,4,4,3,1,14.97
+2022-04-18,LA Caravan,Banana,2,2,2,0,9.98
+2022-04-18,LA Caravan,Chocolate,1,1,1,0,4.99
+2022-04-18,LA Caravan,Cinnamon,2,2,2,0,9.98
+2022-04-18,LA Caravan,Coffee,1,1,1,0,4.99
+2022-04-18,LA Caravan,Strawberry,3,3,2,1,9.98
+2022-04-18,LA Caravan,Thai Tea,3,3,2,1,9.98
+2022-04-18,LA Farmers Markets,Banana,13,13,9,4,44.91
+2022-04-18,LA Farmers Markets,Chocolate,11,11,10,1,49.9
+2022-04-18,LA Farmers Markets,Cinnamon,8,8,6,2,29.94
+2022-04-18,LA Farmers Markets,Coffee,3,3,3,0,14.97
+2022-04-18,LA Farmers Markets,Strawberry,10,14,14,0,69.86
+2022-04-18,LA Farmers Markets,Taro,3,3,3,0,14.97
+2022-04-18,LA Farmers Markets,Thai Tea,14,14,10,4,49.9
+2022-04-18,LokelsOnly,Chocolate,4,4,3,1,14.97
+2022-04-18,LokelsOnly,Thai Tea,2,2,2,0,9.98
+2022-04-18,SB Farmers Markets,Banana,1,2,2,0,9.98
+2022-04-18,SB Farmers Markets,Chocolate,4,4,3,1,14.97
+2022-04-18,SB Farmers Markets,Cinnamon,3,3,3,0,14.97
+2022-04-18,SB Farmers Markets,Coffee,1,1,1,0,4.99
+2022-04-18,SB Farmers Markets,Strawberry,7,7,6,1,29.94
+2022-04-18,SB Farmers Markets,Thai Tea,2,2,2,0,9.98
+2022-04-18,UCLA Duffl,Banana,1,1,1,0,4.99
+2022-04-18,UCLA Duffl,Chocolate,6,6,4,2,19.96
+2022-04-18,UCLA Duffl,Cinnamon,8,8,6,2,29.94
+2022-04-18,UCLA Duffl,Coffee,2,2,2,0,9.98
+2022-04-18,UCLA Duffl,Strawberry,6,6,5,1,24.95
+2022-04-18,UCLA Duffl,Taro,3,3,3,0,14.97
+2022-04-18,UCSB Duffl,Chocolate,2,3,3,0,14.97
+2022-04-18,UCSB Duffl,Cinnamon,1,2,2,0,9.98
+2022-04-18,UCSB Duffl,Strawberry,5,5,4,1,19.96
+2022-04-18,UCSB Duffl,Taro,1,1,1,0,4.99
+2022-04-18,UCSB Duffl,Thai Tea,1,1,1,0,4.99
+2022-04-18,Uber Eats,Banana,1,1,1,0,4.99
+2022-04-18,Uber Eats,Chocolate,3,3,3,0,14.97
+2022-04-18,Uber Eats,Cinnamon,5,5,4,1,19.96
+2022-04-25,Berkeley Farmers Market,Banana,1,1,1,0,4.99
+2022-04-25,Berkeley Farmers Market,Chocolate,4,4,4,0,19.96
+2022-04-25,Berkeley Farmers Market,Cinnamon,1,1,1,0,4.99
+2022-04-25,Berkeley Farmers Market,Strawberry,2,2,2,0,9.98
+2022-04-25,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2022-04-25,Berkeley Farmers Market,Thai Tea,2,2,2,0,9.98
+2022-04-25,Campus Partners,Coffee,2,2,2,0,9.98
+2022-04-25,Campus Partners,Strawberry,3,3,3,0,14.97
+2022-04-25,Campus Partners,Taro,1,1,1,0,4.99
+2022-04-25,Campus Partners,Thai Tea,3,3,3,0,14.97
+2022-04-25,LA Caravan,Banana,3,3,2,1,9.98
+2022-04-25,LA Caravan,Chocolate,1,1,1,0,4.99
+2022-04-25,LA Caravan,Cinnamon,5,5,4,1,19.96
+2022-04-25,LA Caravan,Strawberry,2,2,2,0,9.98
+2022-04-25,LA Caravan,Taro,1,1,1,0,4.99
+2022-04-25,LA Farmers Markets,Banana,8,8,7,1,34.93
+2022-04-25,LA Farmers Markets,Chocolate,12,12,11,1,54.89
+2022-04-25,LA Farmers Markets,Cinnamon,8,8,8,0,39.92
+2022-04-25,LA Farmers Markets,Coffee,2,2,2,0,9.98
+2022-04-25,LA Farmers Markets,Strawberry,16,16,13,3,64.87
+2022-04-25,LA Farmers Markets,Taro,4,4,4,0,19.96
+2022-04-25,LA Farmers Markets,Thai Tea,2,2,2,0,9.98
+2022-04-25,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2022-04-25,SB Farmers Markets,Banana,2,2,2,0,9.98
+2022-04-25,SB Farmers Markets,Chocolate,3,4,4,0,19.96
+2022-04-25,SB Farmers Markets,Cinnamon,5,5,4,1,19.96
+2022-04-25,SB Farmers Markets,Strawberry,3,3,2,1,9.98
+2022-04-25,SB Farmers Markets,Taro,1,1,1,0,4.99
+2022-04-25,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2022-04-25,UCLA Duffl,Banana,2,2,2,0,9.98
+2022-04-25,UCLA Duffl,Chocolate,6,6,4,2,19.96
+2022-04-25,UCLA Duffl,Cinnamon,2,2,2,0,9.98
+2022-04-25,UCLA Duffl,Strawberry,6,6,6,0,29.94
+2022-04-25,UCLA Duffl,Taro,4,4,4,0,19.96
+2022-04-25,UCLA Duffl,Thai Tea,2,2,2,0,9.98
+2022-04-25,UCSB Duffl,Banana,4,4,2,2,9.98
+2022-04-25,UCSB Duffl,Chocolate,6,6,4,2,19.96
+2022-04-25,UCSB Duffl,Cinnamon,2,2,2,0,9.98
+2022-04-25,UCSB Duffl,Strawberry,3,3,3,0,14.97
+2022-04-25,UCSB Duffl,Thai Tea,2,2,2,0,9.98
+2022-04-25,Uber Eats,Chocolate,3,3,2,1,9.98
+2022-04-25,Uber Eats,Cinnamon,1,1,1,0,4.99
+2022-04-25,Uber Eats,Coffee,1,1,1,0,4.99
+2022-04-25,Uber Eats,Strawberry,2,2,2,0,9.98
+2022-05-02,Berkeley Farmers Market,Banana,2,3,3,0,14.97
+2022-05-02,Berkeley Farmers Market,Chocolate,5,5,4,1,19.96
+2022-05-02,Berkeley Farmers Market,Cinnamon,5,5,4,1,19.96
+2022-05-02,Berkeley Farmers Market,Strawberry,6,6,6,0,29.94
+2022-05-02,Berkeley Farmers Market,Thai Tea,1,1,1,0,4.99
+2022-05-02,Campus Partners,Banana,1,1,1,0,4.99
+2022-05-02,Campus Partners,Chocolate,3,3,2,1,9.98
+2022-05-02,Campus Partners,Cinnamon,4,5,5,0,24.95
+2022-05-02,Campus Partners,Coffee,4,4,3,1,14.97
+2022-05-02,Campus Partners,Strawberry,2,2,2,0,9.98
+2022-05-02,Campus Partners,Taro,2,2,2,0,9.98
+2022-05-02,Campus Partners,Thai Tea,3,3,2,1,9.98
+2022-05-02,LA Caravan,Banana,2,2,2,0,9.98
+2022-05-02,LA Caravan,Chocolate,3,3,3,0,14.97
+2022-05-02,LA Caravan,Cinnamon,4,4,3,1,14.97
+2022-05-02,LA Caravan,Thai Tea,1,2,2,0,9.98
+2022-05-02,LA Farmers Markets,Banana,5,5,4,1,19.96
+2022-05-02,LA Farmers Markets,Chocolate,9,15,15,0,74.85
+2022-05-02,LA Farmers Markets,Cinnamon,3,5,5,0,24.95
+2022-05-02,LA Farmers Markets,Coffee,7,7,5,2,24.95
+2022-05-02,LA Farmers Markets,Strawberry,7,8,8,0,39.92
+2022-05-02,LA Farmers Markets,Taro,2,2,2,0,9.98
+2022-05-02,LA Farmers Markets,Thai Tea,6,6,5,1,24.95
+2022-05-02,LokelsOnly,Banana,1,1,1,0,4.99
+2022-05-02,LokelsOnly,Chocolate,1,1,1,0,4.99
+2022-05-02,LokelsOnly,Cinnamon,1,1,1,0,4.99
+2022-05-02,LokelsOnly,Strawberry,1,1,1,0,4.99
+2022-05-02,SB Farmers Markets,Banana,5,5,4,1,19.96
+2022-05-02,SB Farmers Markets,Chocolate,5,5,5,0,24.95
+2022-05-02,SB Farmers Markets,Cinnamon,7,7,5,2,24.95
+2022-05-02,SB Farmers Markets,Coffee,1,1,1,0,4.99
+2022-05-02,SB Farmers Markets,Strawberry,2,2,2,0,9.98
+2022-05-02,SB Farmers Markets,Taro,3,3,2,1,9.98
+2022-05-02,SB Farmers Markets,Thai Tea,1,1,1,0,4.99
+2022-05-02,UCLA Duffl,Banana,4,4,4,0,19.96
+2022-05-02,UCLA Duffl,Chocolate,6,6,5,1,24.95
+2022-05-02,UCLA Duffl,Cinnamon,4,6,6,0,29.94
+2022-05-02,UCLA Duffl,Strawberry,8,8,7,1,34.93
+2022-05-02,UCLA Duffl,Taro,1,1,1,0,4.99
+2022-05-02,UCLA Duffl,Thai Tea,4,5,5,0,24.95
+2022-05-02,UCSB Duffl,Banana,1,1,1,0,4.99
+2022-05-02,UCSB Duffl,Chocolate,4,4,3,1,14.97
+2022-05-02,UCSB Duffl,Cinnamon,2,3,3,0,14.97
+2022-05-02,UCSB Duffl,Strawberry,6,6,6,0,29.94
+2022-05-02,Uber Eats,Coffee,2,2,2,0,9.98
+2022-05-02,Uber Eats,Strawberry,2,2,2,0,9.98
+2022-05-02,Uber Eats,Thai Tea,1,1,1,0,4.99
+2022-05-09,Berkeley Farmers Market,Banana,1,1,1,0,4.99
+2022-05-09,Berkeley Farmers Market,Chocolate,10,10,8,2,39.92
+2022-05-09,Berkeley Farmers Market,Cinnamon,2,2,2,0,9.98
+2022-05-09,Berkeley Farmers Market,Strawberry,6,6,4,2,19.96
+2022-05-09,Berkeley Farmers Market,Thai Tea,5,5,4,1,19.96
+2022-05-09,Campus Partners,Banana,2,2,1,1,4.99
+2022-05-09,Campus Partners,Chocolate,1,1,1,0,4.99
+2022-05-09,Campus Partners,Cinnamon,2,2,2,0,9.98
+2022-05-09,Campus Partners,Strawberry,2,3,3,0,14.97
+2022-05-09,Campus Partners,Taro,1,1,1,0,4.99
+2022-05-09,Campus Partners,Thai Tea,4,4,3,1,14.97
+2022-05-09,LA Caravan,Banana,4,4,4,0,19.96
+2022-05-09,LA Caravan,Chocolate,9,9,8,1,39.92
+2022-05-09,LA Caravan,Strawberry,4,4,4,0,19.96
+2022-05-09,LA Caravan,Taro,1,1,1,0,4.99
+2022-05-09,LA Caravan,Thai Tea,1,1,1,0,4.99
+2022-05-09,LA Farmers Markets,Banana,13,13,8,5,39.92
+2022-05-09,LA Farmers Markets,Chocolate,13,13,8,5,39.92
+2022-05-09,LA Farmers Markets,Cinnamon,14,14,13,1,64.87
+2022-05-09,LA Farmers Markets,Coffee,1,1,1,0,4.99
+2022-05-09,LA Farmers Markets,Strawberry,20,20,13,7,64.87
+2022-05-09,LA Farmers Markets,Taro,6,6,4,2,19.96
+2022-05-09,LA Farmers Markets,Thai Tea,5,5,4,1,19.96
+2022-05-09,LokelsOnly,Banana,2,2,2,0,9.98
+2022-05-09,LokelsOnly,Chocolate,1,1,1,0,4.99
+2022-05-09,LokelsOnly,Strawberry,1,1,1,0,4.99
+2022-05-09,SB Farmers Markets,Banana,3,3,3,0,14.97
+2022-05-09,SB Farmers Markets,Chocolate,3,3,3,0,14.97
+2022-05-09,SB Farmers Markets,Cinnamon,7,7,5,2,24.95
+2022-05-09,SB Farmers Markets,Coffee,0,1,1,0,4.99
+2022-05-09,SB Farmers Markets,Strawberry,5,5,4,1,19.96
+2022-05-09,SB Farmers Markets,Taro,2,2,2,0,9.98
+2022-05-09,SB Farmers Markets,Thai Tea,3,5,5,0,24.95
+2022-05-09,UCLA Duffl,Banana,4,4,3,1,14.97
+2022-05-09,UCLA Duffl,Chocolate,5,5,4,1,19.96
+2022-05-09,UCLA Duffl,Cinnamon,5,5,4,1,19.96
+2022-05-09,UCLA Duffl,Coffee,3,3,3,0,14.97
+2022-05-09,UCLA Duffl,Strawberry,3,3,3,0,14.97
+2022-05-09,UCLA Duffl,Taro,1,1,1,0,4.99
+2022-05-09,UCLA Duffl,Thai Tea,4,4,4,0,19.96
+2022-05-09,UCSB Duffl,Banana,1,1,1,0,4.99
+2022-05-09,UCSB Duffl,Chocolate,4,4,4,0,19.96
+2022-05-09,UCSB Duffl,Strawberry,4,4,3,1,14.97
+2022-05-09,UCSB Duffl,Taro,1,1,1,0,4.99
+2022-05-09,UCSB Duffl,Thai Tea,3,3,2,1,9.98
+2022-05-09,Uber Eats,Banana,1,1,1,0,4.99
+2022-05-09,Uber Eats,Cinnamon,2,2,2,0,9.98
+2022-05-09,Uber Eats,Strawberry,5,5,3,2,14.97
+2022-05-09,Uber Eats,Thai Tea,1,1,1,0,4.99
+2022-05-16,Berkeley Farmers Market,Banana,6,6,4,2,19.96
+2022-05-16,Berkeley Farmers Market,Chocolate,4,4,3,1,14.97
+2022-05-16,Berkeley Farmers Market,Cinnamon,3,3,3,0,14.97
+2022-05-16,Berkeley Farmers Market,Strawberry,4,9,9,0,44.91
+2022-05-16,Berkeley Farmers Market,Taro,1,1,1,0,4.99
+2022-05-16,Berkeley Farmers Market,Thai Tea,2,2,2,0,9.98
+2022-05-16,Campus Partners,Banana,1,1,1,0,4.99
+2022-05-16,Campus Partners,Chocolate,5,5,5,0,24.95
+2022-05-16,Campus Partners,Cinnamon,4,4,4,0,19.96
+2022-05-16,Campus Partners,Strawberry,5,5,3,2,14.97
+2022-05-16,Campus Partners,Thai Tea,3,3,2,1,9.98
+2022-05-16,LA Caravan,Chocolate,3,3,3,0,14.97
+2022-05-16,LA Caravan,Cinnamon,1,2,2,0,9.98
+2022-05-16,LA Caravan,Strawberry,4,4,4,0,19.96
+2022-05-16,LA Caravan,Taro,1,1,1,0,4.99
+2022-05-16,LA Caravan,Thai Tea,3,3,3,0,14.97
+2022-05-16,LA Farmers Markets,Banana,7,7,6,1,29.94
+2022-05-16,LA Farmers Markets,Chocolate,12,12,10,2,49.9
+2022-05-16,LA Farmers Markets,Cinnamon,9,9,7,2,34.93
+2022-05-16,LA Farmers Markets,Coffee,2,3,3,0,14.97
+2022-05-16,LA Farmers Markets,Strawberry,15,15,11,4,54.89
+2022-05-16,LA Farmers Markets,Taro,5,5,4,1,19.96
+2022-05-16,LA Farmers Markets,Thai Tea,4,4,3,1,14.97
+2022-05-16,LokelsOnly,Banana,1,1,1,0,4.99
+2022-05-16,LokelsOnly,Chocolate,4,4,4,0,19.96
+2022-05-16,LokelsOnly,Cinnamon,3,3,2,1,9.98
+2022-05-16,SB Farmers Markets,Banana,4,4,4,0,19.96
+2022-05-16,SB Farmers Markets,Chocolate,2,2,2,0,9.98
+2022-05-16,SB Farmers Markets,Cinnamon,10,10,6,4,29.94
+2022-05-16,SB Farmers Markets,Coffee,1,1,1,0,4.99
+2022-05-16,SB Farmers Markets,Strawberry,4,4,3,1,14.97
+2022-05-16,SB Farmers Markets,Taro,1,2,2,0,9.98
+2022-05-16,SB Farmers Markets,Thai Tea,8,8,6,2,29.94
+2022-05-16,UCLA Duffl,Banana,5,5,4,1,19.96
+2022-05-16,UCLA Duffl,Chocolate,9,9,8,1,39.92
+2022-05-16,UCLA Duffl,Cinnamon,4,4,4,0,19.96
+2022-05-16,UCLA Duffl,Strawberry,6,6,4,2,19.96
+2022-05-16,UCLA Duffl,Thai Tea,1,1,1,0,4.99
+2022-05-16,UCSB Duffl,Cinnamon,1,1,1,0,4.99
+2022-05-16,UCSB Duffl,Coffee,1,1,1,0,4.99
+2022-05-16,UCSB Duffl,Strawberry,4,4,3,1,14.97
+2022-05-16,UCSB Duffl,Thai Tea,2,2,2,0,9.98
+2022-05-16,Uber Eats,Banana,1,1,1,0,4.99
+2022-05-16,Uber Eats,Chocolate,1,1,1,0,4.99
+2022-05-16,Uber Eats,Cinnamon,1,1,1,0,4.99
+2022-05-16,Uber Eats,Coffee,1,1,1,0,4.99
+2022-05-16,Uber Eats,Strawberry,2,2,2,0,9.98
+2022-05-16,Uber Eats,Thai Tea,2,2,1,1,4.99

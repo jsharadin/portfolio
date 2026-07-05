@@ -1,0 +1,101 @@
+Return Stock,Return Sector,OFI Stock,OFI Sector,Beta,T-Stat,Abs T-Stat,Significant (5%),Impact Type
+PEP,Consumer Staples,PEP,Consumer Staples,-0.236991,-29.99,29.99,Yes,Self
+PEP,Consumer Staples,XOM,Energy,-0.013089,-3.41,3.41,Yes,Cross
+PEP,Consumer Staples,TSLA,Consumer Discretionary,0.012344,1.92,1.92,No,Cross
+PEP,Consumer Staples,NVDA,Technology,0.006429,1.56,1.56,No,Cross
+PEP,Consumer Staples,AAPL,Technology,0.001591,0.36,0.36,No,Cross
+PEP,Consumer Staples,JPM,Financials,0.006369,1.46,1.46,No,Cross
+PEP,Consumer Staples,V,Financials,0.006685,1.6,1.6,No,Cross
+PEP,Consumer Staples,AMGN,Healthcare,0.012037,2.4,2.4,Yes,Cross
+PEP,Consumer Staples,MSFT,Technology,0.0109,1.2,1.2,No,Cross
+PEP,Consumer Staples,GILD,Healthcare,-0.010489,-2.47,2.47,Yes,Cross
+XOM,Energy,PEP,Consumer Staples,-0.00081,-0.13,0.13,No,Cross
+XOM,Energy,XOM,Energy,-0.232469,-36.09,36.09,Yes,Self
+XOM,Energy,TSLA,Consumer Discretionary,0.013375,1.52,1.52,No,Cross
+XOM,Energy,NVDA,Technology,-0.009321,-1.49,1.49,No,Cross
+XOM,Energy,AAPL,Technology,0.00425,0.69,0.69,No,Cross
+XOM,Energy,JPM,Financials,0.007586,1.08,1.08,No,Cross
+XOM,Energy,V,Financials,0.009588,1.36,1.36,No,Cross
+XOM,Energy,AMGN,Healthcare,-0.008655,-1.1,1.1,No,Cross
+XOM,Energy,MSFT,Technology,0.037012,3.21,3.21,Yes,Cross
+XOM,Energy,GILD,Healthcare,-0.013719,-2.11,2.11,Yes,Cross
+TSLA,Consumer Discretionary,PEP,Consumer Staples,-0.020055,-3.33,3.33,Yes,Cross
+TSLA,Consumer Discretionary,XOM,Energy,0.008289,1.35,1.35,No,Cross
+TSLA,Consumer Discretionary,TSLA,Consumer Discretionary,-0.211753,-37.66,37.66,Yes,Self
+TSLA,Consumer Discretionary,NVDA,Technology,-0.009775,-1.73,1.73,No,Cross
+TSLA,Consumer Discretionary,AAPL,Technology,-0.015409,-2.5,2.5,Yes,Cross
+TSLA,Consumer Discretionary,JPM,Financials,-0.005022,-0.76,0.76,No,Cross
+TSLA,Consumer Discretionary,V,Financials,-0.018295,-3.05,3.05,Yes,Cross
+TSLA,Consumer Discretionary,AMGN,Healthcare,-0.016374,-2.08,2.08,Yes,Cross
+TSLA,Consumer Discretionary,MSFT,Technology,-0.010593,-0.95,0.95,No,Cross
+TSLA,Consumer Discretionary,GILD,Healthcare,0.014728,2.42,2.42,Yes,Cross
+NVDA,Technology,PEP,Consumer Staples,-0.003356,-0.96,0.96,No,Cross
+NVDA,Technology,XOM,Energy,-0.004652,-1.39,1.39,No,Cross
+NVDA,Technology,TSLA,Consumer Discretionary,0.001574,0.29,0.29,No,Cross
+NVDA,Technology,NVDA,Technology,-0.317189,-75.95,75.95,Yes,Self
+NVDA,Technology,AAPL,Technology,-0.007266,-1.97,1.97,Yes,Cross
+NVDA,Technology,JPM,Financials,-0.001924,-0.49,0.49,No,Cross
+NVDA,Technology,V,Financials,0.000921,0.23,0.23,No,Cross
+NVDA,Technology,AMGN,Healthcare,-0.003807,-0.89,0.89,No,Cross
+NVDA,Technology,MSFT,Technology,0.001609,0.21,0.21,No,Cross
+NVDA,Technology,GILD,Healthcare,-0.000778,-0.21,0.21,No,Cross
+AAPL,Technology,PEP,Consumer Staples,-0.008537,-2.15,2.15,Yes,Cross
+AAPL,Technology,XOM,Energy,-0.001397,-0.36,0.36,No,Cross
+AAPL,Technology,TSLA,Consumer Discretionary,-0.006714,-1.18,1.18,No,Cross
+AAPL,Technology,NVDA,Technology,-0.008214,-2.16,2.16,Yes,Cross
+AAPL,Technology,AAPL,Technology,-0.249836,-60.0,60.0,Yes,Self
+AAPL,Technology,JPM,Financials,-0.005468,-1.31,1.31,No,Cross
+AAPL,Technology,V,Financials,-0.007711,-1.95,1.95,No,Cross
+AAPL,Technology,AMGN,Healthcare,-0.001421,-0.31,0.31,No,Cross
+AAPL,Technology,MSFT,Technology,-0.001106,-0.15,0.15,No,Cross
+AAPL,Technology,GILD,Healthcare,-0.000685,-0.17,0.17,No,Cross
+JPM,Financials,PEP,Consumer Staples,-0.002663,-0.64,0.64,No,Cross
+JPM,Financials,XOM,Energy,0.000137,0.03,0.03,No,Cross
+JPM,Financials,TSLA,Consumer Discretionary,-0.011211,-1.76,1.76,No,Cross
+JPM,Financials,NVDA,Technology,-0.001365,-0.32,0.32,No,Cross
+JPM,Financials,AAPL,Technology,-0.003094,-0.73,0.73,No,Cross
+JPM,Financials,JPM,Financials,-0.215368,-30.11,30.11,Yes,Self
+JPM,Financials,V,Financials,0.003737,0.76,0.76,No,Cross
+JPM,Financials,AMGN,Healthcare,-0.00068,-0.13,0.13,No,Cross
+JPM,Financials,MSFT,Technology,-0.010797,-1.32,1.32,No,Cross
+JPM,Financials,GILD,Healthcare,0.006136,1.39,1.39,No,Cross
+V,Financials,PEP,Consumer Staples,-0.008478,-1.74,1.74,No,Cross
+V,Financials,XOM,Energy,0.019414,3.81,3.81,Yes,Cross
+V,Financials,TSLA,Consumer Discretionary,-0.028469,-4.47,4.47,Yes,Cross
+V,Financials,NVDA,Technology,-0.009155,-1.87,1.87,No,Cross
+V,Financials,AAPL,Technology,-0.011981,-2.56,2.56,Yes,Cross
+V,Financials,JPM,Financials,-0.012345,-2.26,2.26,Yes,Cross
+V,Financials,V,Financials,-0.187078,-26.56,26.56,Yes,Self
+V,Financials,AMGN,Healthcare,-0.010267,-1.63,1.63,No,Cross
+V,Financials,MSFT,Technology,-0.027263,-3.25,3.25,Yes,Cross
+V,Financials,GILD,Healthcare,0.026336,5.01,5.01,Yes,Cross
+AMGN,Healthcare,PEP,Consumer Staples,0.002449,0.48,0.48,No,Cross
+AMGN,Healthcare,XOM,Energy,0.014777,2.61,2.61,Yes,Cross
+AMGN,Healthcare,TSLA,Consumer Discretionary,-0.001048,-0.14,0.14,No,Cross
+AMGN,Healthcare,NVDA,Technology,-0.00259,-0.5,0.5,No,Cross
+AMGN,Healthcare,AAPL,Technology,0.00586,1.09,1.09,No,Cross
+AMGN,Healthcare,JPM,Financials,0.001281,0.23,0.23,No,Cross
+AMGN,Healthcare,V,Financials,-0.004473,-0.75,0.75,No,Cross
+AMGN,Healthcare,AMGN,Healthcare,-0.260208,-53.69,53.69,Yes,Self
+AMGN,Healthcare,MSFT,Technology,-0.023823,-2.05,2.05,Yes,Cross
+AMGN,Healthcare,GILD,Healthcare,0.013943,2.46,2.46,Yes,Cross
+MSFT,Technology,PEP,Consumer Staples,-0.006195,-0.83,0.83,No,Cross
+MSFT,Technology,XOM,Energy,0.005716,0.8,0.8,No,Cross
+MSFT,Technology,TSLA,Consumer Discretionary,-0.014944,-1.43,1.43,No,Cross
+MSFT,Technology,NVDA,Technology,0.007346,1.03,1.03,No,Cross
+MSFT,Technology,AAPL,Technology,-0.007542,-1.08,1.08,No,Cross
+MSFT,Technology,JPM,Financials,-0.011327,-1.46,1.46,No,Cross
+MSFT,Technology,V,Financials,-0.013408,-1.88,1.88,No,Cross
+MSFT,Technology,AMGN,Healthcare,-0.012453,-1.36,1.36,No,Cross
+MSFT,Technology,MSFT,Technology,-0.255494,-29.53,29.53,Yes,Self
+MSFT,Technology,GILD,Healthcare,0.011063,1.44,1.44,No,Cross
+GILD,Healthcare,PEP,Consumer Staples,-0.00414,-0.59,0.59,No,Cross
+GILD,Healthcare,XOM,Energy,-0.017378,-2.51,2.51,Yes,Cross
+GILD,Healthcare,TSLA,Consumer Discretionary,0.025099,2.37,2.37,Yes,Cross
+GILD,Healthcare,NVDA,Technology,-0.008416,-1.22,1.22,No,Cross
+GILD,Healthcare,AAPL,Technology,-0.00533,-0.74,0.74,No,Cross
+GILD,Healthcare,JPM,Financials,0.002461,0.33,0.33,No,Cross
+GILD,Healthcare,V,Financials,0.011645,1.54,1.54,No,Cross
+GILD,Healthcare,AMGN,Healthcare,-0.005892,-0.69,0.69,No,Cross
+GILD,Healthcare,MSFT,Technology,0.0504,3.51,3.51,Yes,Cross
+GILD,Healthcare,GILD,Healthcare,-0.316053,-41.75,41.75,Yes,Self

@@ -1,0 +1,29 @@
+ingredient,category,applies_to,unit,per_bottle,pack_size,pack_cost,supplier,lead_time_days,shelf_life_days,on_hand
+Oat Milk Base,Base,ALL,oz,8.0,192,19.19,Sysco,21,365,2352
+Lecithin,Thickening,ALL,oz,0.0186,16,16.96,Whole Foods,7,28,4.3
+Grapeseed Oil,Thickening,ALL,mL,2.5,16561,58.95,Sysco,21,99,2270
+Guar Gum,Thickening,ALL,oz,0.0062,16,51.70,Sysco (WikiPantry),21,540,3.6
+Potassium Sorbate,Antimicrobial,ALL,oz,0.0093,32,44.72,North Mountain (Amazon),14,365,7.7
+Sodium Benzoate,Antimicrobial,ALL,oz,0.0310,24,32.82,Florida Laboratories (Amazon),14,365,27.9
+Stevia,Sweetening,ALL,oz,0.1304,96,65.94,Amazon,14,28,12.0
+Monk Fruit Extract,Sweetening,ALL,oz,0.5290,192,129.02,Splenda,14,1000,0
+L-Theanine,Enhancer,ALL,oz,0.0004,9.2,24.84,Bulk Supplements,14,700,6.8
+Cocoa Powder,Flavor,Chocolate,oz,0.4036,480,156.59,Sysco,21,1100,224.4
+Rice Powder,Flavor,Cinnamon,oz,0.4471,80,50.97,Naturevibe (Amazon),14,365,91.8
+Cinnamon,Flavor,Cinnamon,oz,0.0745,112,24.87,Sysco Imperial,21,540,86.6
+Strawberry Powder,Flavor,Strawberry,oz,0.4471,32,26.95,Tea Zone,14,365,164.4
+Plantain Powder,Flavor,Banana,oz,0.2540,32,21.99,LiveKuna (Amazon),14,180,48.0
+Fresh Bananas,Flavor,Banana,pce,0.5,40,18.50,Sysco,4,7,0
+Maple Syrup,Flavor,Banana,oz,0.1690,512,48.90,Sysco Imperial,21,540,0
+Vanilla Extract,Flavor,Banana,oz,0.0560,192,31.25,Sysco,21,720,192.0
+Thai Tea Mix,Flavor,Thai Tea,oz,1.2680,16,9.49,Pantai,14,180,144.0
+Coconut Condensed Milk,Flavor,Thai Tea,oz,0.5070,67.5,28.75,Amazon,14,720,0
+Fresh Strawberries,Flavor,Thai Tea,cups,0.3330,8,12.99,Sysco,4,7,0
+Taro Root,Flavor,Taro,oz,1.2670,64,15.99,Weee!,4,7,0
+Ube Powder,Flavor,Taro,oz,0.7610,16,13.49,Weee!,14,90,0
+Espresso Grounds,Flavor,Coffee,oz,0.9000,18,12.95,Starbucks,7,180,0
+8 oz Glass Bottle + Cap,Packaging,ALL,pce,1.0,12,14.61,U-Line,21,99999,198
+Bottle Label (7x3),Packaging,ALL,pce,1.0,250,65.85,48 Hour Printing,10,99999,300
+Plastic PP Cup (FM),Packaging,ALL,pce,0.35,1000,79.99,YoCup,14,99999,640
+Paper Straw (FM),Packaging,ALL,pce,0.35,4800,42.50,WebstaurantStore,14,99999,4440
+Sealing Lid (FM),Packaging,ALL,pce,0.35,1000,54.99,WebstaurantStore,14,99999,640

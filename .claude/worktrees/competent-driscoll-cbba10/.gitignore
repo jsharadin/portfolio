@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# IDE
+.idea/
+.vscode/
+
+# Data (kept out of git for size/licensing)
+*.dbn.zst
+*.pkl
