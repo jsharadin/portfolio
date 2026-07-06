@@ -1,6 +1,7 @@
 # Jacob Sharadin — Portfolio
 
-Hi! I'm Jacob, a masters student at Universitat Autònoma de Barcelona working at the intersection of economics, statistics, and machine learning. This repository collects a curated set of my research and case-study projects — primarily applied econometrics, causal inference, and quantitative finance.
+Hi, I'm Jake — a data analyst working in Python, SQL, and R, with a focus on statistical modeling, causal inference, and financial data.
+This portfolio contains end-to-end projects spanning high-frequency market data, machine learning, and applied econometrics.
 
 ------------
 ## Contact
